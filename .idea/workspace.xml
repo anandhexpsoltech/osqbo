@@ -1,0 +1,1327 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2768db1b-546a-451a-a4f3-1eef076c2b24" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="template-custom.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/wp-content/themes/oss/template-custom.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="306">
+              <caret line="208" column="6" lean-forward="false" selection-start-line="208" selection-start-column="6" selection-end-line="208" selection-end-column="6" />
+              <folding>
+                <element signature="e#6#47#0#PHP" expanded="true" />
+                <element signature="n#div#0;n#!!top" expanded="false" />
+                <element signature="n#div#1;n#!!top" expanded="false" />
+                <element signature="n#div#2;n#!!top" expanded="false" />
+                <element signature="n#div#3;n#!!top" expanded="false" />
+                <element signature="n#div#4;n#!!top" expanded="false" />
+                <element signature="n#div#5;n#!!top" expanded="false" />
+                <element signature="n#div#6;n#!!top" expanded="false" />
+                <element signature="n#div#7;n#!!top" expanded="false" />
+                <element signature="n#div#8;n#!!top" expanded="false" />
+                <element signature="n#script#4;n#!!top" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="main-dbd10cf66e.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/wp-content/themes/oss/dist/styles/main-dbd10cf66e.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255204">
+              <caret line="15195" column="1" lean-forward="false" selection-start-line="15195" selection-start-column="1" selection-end-line="15195" selection-end-column="1" />
+              <folding>
+                <element signature="e#48142#48389#2" expanded="true" />
+                <element signature="e#49233#49553#2" expanded="true" />
+                <element signature="e#50381#50670#2" expanded="true" />
+                <element signature="e#96044#96244#2" expanded="true" />
+                <element signature="e#96384#96533#2" expanded="true" />
+                <element signature="e#96701#96847#2" expanded="true" />
+                <element signature="e#97470#97633#1" expanded="true" />
+                <element signature="e#109925#110168#2" expanded="true" />
+                <element signature="e#111103#111352#2" expanded="true" />
+                <element signature="e#142478#142665#2" expanded="true" />
+                <element signature="e#142721#142910#2" expanded="true" />
+                <element signature="e#348654#349944#0" expanded="false" />
+                <element signature="e#349946#351228#0" expanded="false" />
+                <element signature="e#351237#351301#0" expanded="false" />
+                <element signature="e#351303#351618#0" expanded="false" />
+                <element signature="e#351620#351927#0" expanded="false" />
+                <element signature="e#351937#352003#0" expanded="false" />
+                <element signature="e#352005#352317#0" expanded="false" />
+                <element signature="e#352319#352623#0" expanded="false" />
+                <element signature="e#352634#352702#0" expanded="false" />
+                <element signature="e#352704#352890#0" expanded="false" />
+                <element signature="e#352892#353070#0" expanded="false" />
+                <element signature="e#353260#353280#0" expanded="false" />
+                <element signature="e#353294#353394#0" expanded="false" />
+                <element signature="e#353404#353449#0" expanded="false" />
+                <element signature="e#353477#353495#0" expanded="false" />
+                <element signature="e#353508#353538#0" expanded="false" />
+                <element signature="e#353559#353606#0" expanded="false" />
+                <element signature="e#353619#353640#0" expanded="false" />
+                <element signature="e#353668#353690#0" expanded="false" />
+                <element signature="e#353711#354004#0" expanded="false" />
+                <element signature="e#354021#354095#0" expanded="false" />
+                <element signature="e#354104#354129#0" expanded="false" />
+                <element signature="e#354138#354166#0" expanded="false" />
+                <element signature="e#354177#355022#0" expanded="false" />
+                <element signature="e#355036#355062#0" expanded="false" />
+                <element signature="e#355078#355104#0" expanded="false" />
+                <element signature="e#355121#355146#0" expanded="false" />
+                <element signature="e#355161#355188#0" expanded="false" />
+                <element signature="e#355204#355367#0" expanded="false" />
+                <element signature="e#355385#355411#0" expanded="false" />
+                <element signature="e#355455#355587#0" expanded="false" />
+                <element signature="e#355606#355633#0" expanded="false" />
+                <element signature="e#355658#355702#0" expanded="false" />
+                <element signature="e#355725#355881#0" expanded="false" />
+                <element signature="e#355910#356028#0" expanded="false" />
+                <element signature="e#356053#356207#0" expanded="false" />
+                <element signature="e#356238#356349#0" expanded="false" />
+                <element signature="e#356375#356531#0" expanded="false" />
+                <element signature="e#356563#356678#0" expanded="false" />
+                <element signature="e#356702#356856#0" expanded="false" />
+                <element signature="e#356886#356998#0" expanded="false" />
+                <element signature="e#357006#357147#0" expanded="false" />
+                <element signature="e#357157#357176#0" expanded="false" />
+                <element signature="e#357191#357235#0" expanded="false" />
+                <element signature="e#357277#357300#0" expanded="false" />
+                <element signature="e#357317#357371#0" expanded="false" />
+                <element signature="e#357384#357404#0" expanded="false" />
+                <element signature="e#357429#357490#0" expanded="false" />
+                <element signature="e#357506#357528#0" expanded="false" />
+                <element signature="e#357560#357626#0" expanded="false" />
+                <element signature="e#357666#358112#0" expanded="false" />
+                <element signature="e#358149#358496#0" expanded="false" />
+                <element signature="e#358517#358609#0" expanded="false" />
+                <element signature="e#358610#358694#0" expanded="false" />
+                <element signature="e#358742#358824#0" expanded="false" />
+                <element signature="e#358857#359006#0" expanded="false" />
+                <element signature="e#359015#359411#0" expanded="false" />
+                <element signature="e#359427#359787#0" expanded="false" />
+                <element signature="e#359802#360170#0" expanded="false" />
+                <element signature="e#360171#360628#0" expanded="false" />
+                <element signature="e#360629#361078#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>imagedestroy</find>
+      <find>gformInitSpinner</find>
+      <find>decode</find>
+      <find>encode</find>
+      <find>contact_form</find>
+      <find>captcha-input_span</find>
+      <find>captcha</find>
+      <find>validateForm</find>
+      <find>txtCompanyName_span</find>
+      <find>txtCompanyName</find>
+      <find>btnclick</find>
+      <find>btnsignup</find>
+      <find>console</find>
+      <find>CompanyNameValidation</find>
+      <find>IsRecapchaValid</find>
+      <find>txtNumberofUserLicenses_span</find>
+      <find>NumberofUserLicenses</find>
+      <find>EmailValidate</find>
+      <find>Please enter a valid email address.</find>
+      <find>data-val-email</find>
+      <find>txtEmailAddress_spanvalid</find>
+      <find>Use 10 or more characters</find>
+      <find>#txtEmailAddress_span</find>
+      <find>SpanCompanyName</find>
+      <find>CompanySignUpValidation()</find>
+      <find>txtNumberofUserLicenses</find>
+      <find>NoOfUserLicenses</find>
+      <find>txtversion</find>
+      <find>loader-wrapper</find>
+      <find>.zip</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>jQuery</replace>
+      <replace>fa fa-check</replace>
+      <replace>fa fa-times</replace>
+    </replaceStrings>
+    <dirStrings>
+      <dir>E:\xampp\htdocs\osqbo</dir>
+    </dirStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/.htaccess" />
+        <option value="$PROJECT_DIR$/wp-config.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/oss/simple-php-captcha.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/oss/captcha.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/oss/captcha-image.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/oss/mycaptcha.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/oss/functions.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/oss/captcha_img.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/oss/dist/styles/main-dbd10cf66e.css" />
+        <option value="$PROJECT_DIR$/wp-content/themes/oss/js/jquery.min.js" />
+        <option value="$PROJECT_DIR$/wp-content/themes/oss/js/bootstrap.min.js" />
+        <option value="$PROJECT_DIR$/wp-content/themes/oss/js/jquery.inputmask.js" />
+        <option value="$PROJECT_DIR$/wp-content/themes/oss/css/font-awesome.min.css" />
+        <option value="$PROJECT_DIR$/wp-content/themes/oss/template-custom.php" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="102" />
+    <option name="y" value="16" />
+    <option name="width" value="939" />
+    <option name="height" value="688" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="osqbo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="osqbo" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scratches" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../littlefish" />
+    <property name="node.js.path.for.package.jscs" value="project" />
+    <property name="node.js.detected.package.jscs" value="true" />
+    <property name="node.js.selected.package.jscs" value="" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\xampp\htdocs\osqbo\sql" />
+      <recent name="E:\xampp\htdocs\osqbo\wp-content\themes\oss" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2768db1b-546a-451a-a4f3-1eef076c2b24" name="Default" comment="" />
+      <created>1617972583764</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1617972583764</updated>
+      <workItem from="1617972586186" duration="7003000" />
+      <workItem from="1618202778132" duration="1798000" />
+      <workItem from="1618208496117" duration="17957000" />
+      <workItem from="1618238014356" duration="496000" />
+      <workItem from="1618287815817" duration="634000" />
+      <workItem from="1618295750526" duration="14809000" />
+      <workItem from="1619155855518" duration="8211000" />
+      <workItem from="1619412429706" duration="30000" />
+      <workItem from="1619683323405" duration="2739000" />
+      <workItem from="1619766697692" duration="1901000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="56230000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <layout>
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2322239" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32843137" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.75" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="3" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/oss/template-custom.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#6#47#0#PHP" expanded="true" />
+            <element signature="n#div#0;n#!!top" expanded="false" />
+            <element signature="n#div#1;n#!!top" expanded="false" />
+            <element signature="n#div#2;n#!!top" expanded="false" />
+            <element signature="n#div#3;n#!!top" expanded="false" />
+            <element signature="n#div#4;n#!!top" expanded="false" />
+            <element signature="n#div#5;n#!!top" expanded="false" />
+            <element signature="n#div#6;n#!!top" expanded="false" />
+            <element signature="n#div#7;n#!!top" expanded="false" />
+            <element signature="n#div#8;n#!!top" expanded="false" />
+            <element signature="n#script#4;n#!!top" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/oss/dist/styles/main-dbd10cf66e.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="258315">
+          <caret line="15195" column="1" lean-forward="true" selection-start-line="15195" selection-start-column="1" selection-end-line="15195" selection-end-column="1" />
+          <folding>
+            <element signature="e#48142#48389#2" expanded="true" />
+            <element signature="e#49233#49553#2" expanded="true" />
+            <element signature="e#50381#50670#2" expanded="true" />
+            <element signature="e#96044#96244#2" expanded="true" />
+            <element signature="e#96384#96533#2" expanded="true" />
+            <element signature="e#96701#96847#2" expanded="true" />
+            <element signature="e#97470#97633#1" expanded="true" />
+            <element signature="e#109925#110168#2" expanded="true" />
+            <element signature="e#111103#111352#2" expanded="true" />
+            <element signature="e#142478#142665#2" expanded="true" />
+            <element signature="e#142721#142910#2" expanded="true" />
+            <element signature="e#348654#349944#0" expanded="false" />
+            <element signature="e#349946#351228#0" expanded="false" />
+            <element signature="e#351237#351301#0" expanded="false" />
+            <element signature="e#351303#351618#0" expanded="false" />
+            <element signature="e#351620#351927#0" expanded="false" />
+            <element signature="e#351937#352003#0" expanded="false" />
+            <element signature="e#352005#352317#0" expanded="false" />
+            <element signature="e#352319#352623#0" expanded="false" />
+            <element signature="e#352634#352702#0" expanded="false" />
+            <element signature="e#352704#352890#0" expanded="false" />
+            <element signature="e#352892#353070#0" expanded="false" />
+            <element signature="e#353260#353280#0" expanded="false" />
+            <element signature="e#353294#353394#0" expanded="false" />
+            <element signature="e#353404#353449#0" expanded="false" />
+            <element signature="e#353477#353495#0" expanded="false" />
+            <element signature="e#353508#353538#0" expanded="false" />
+            <element signature="e#353559#353606#0" expanded="false" />
+            <element signature="e#353619#353640#0" expanded="false" />
+            <element signature="e#353668#353690#0" expanded="false" />
+            <element signature="e#353711#354004#0" expanded="false" />
+            <element signature="e#354021#354095#0" expanded="false" />
+            <element signature="e#354104#354129#0" expanded="false" />
+            <element signature="e#354138#354166#0" expanded="false" />
+            <element signature="e#354177#355022#0" expanded="false" />
+            <element signature="e#355036#355062#0" expanded="false" />
+            <element signature="e#355078#355104#0" expanded="false" />
+            <element signature="e#355121#355146#0" expanded="false" />
+            <element signature="e#355161#355188#0" expanded="false" />
+            <element signature="e#355204#355367#0" expanded="false" />
+            <element signature="e#355385#355411#0" expanded="false" />
+            <element signature="e#355455#355587#0" expanded="false" />
+            <element signature="e#355606#355633#0" expanded="false" />
+            <element signature="e#355658#355702#0" expanded="false" />
+            <element signature="e#355725#355881#0" expanded="false" />
+            <element signature="e#355910#356028#0" expanded="false" />
+            <element signature="e#356053#356207#0" expanded="false" />
+            <element signature="e#356238#356349#0" expanded="false" />
+            <element signature="e#356375#356531#0" expanded="false" />
+            <element signature="e#356563#356678#0" expanded="false" />
+            <element signature="e#356702#356856#0" expanded="false" />
+            <element signature="e#356886#356998#0" expanded="false" />
+            <element signature="e#357006#357147#0" expanded="false" />
+            <element signature="e#357157#357176#0" expanded="false" />
+            <element signature="e#357191#357235#0" expanded="false" />
+            <element signature="e#357277#357300#0" expanded="false" />
+            <element signature="e#357317#357371#0" expanded="false" />
+            <element signature="e#357384#357404#0" expanded="false" />
+            <element signature="e#357429#357490#0" expanded="false" />
+            <element signature="e#357506#357528#0" expanded="false" />
+            <element signature="e#357560#357626#0" expanded="false" />
+            <element signature="e#357666#358112#0" expanded="false" />
+            <element signature="e#358149#358496#0" expanded="false" />
+            <element signature="e#358517#358609#0" expanded="false" />
+            <element signature="e#358610#358694#0" expanded="false" />
+            <element signature="e#358742#358824#0" expanded="false" />
+            <element signature="e#358857#359006#0" expanded="false" />
+            <element signature="e#359015#359411#0" expanded="false" />
+            <element signature="e#359427#359787#0" expanded="false" />
+            <element signature="e#359802#360170#0" expanded="false" />
+            <element signature="e#360171#360628#0" expanded="false" />
+            <element signature="e#360629#361078#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/oss/template-custom.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#6#47#0#PHP" expanded="true" />
+            <element signature="n#div#0;n#!!top" expanded="false" />
+            <element signature="n#div#1;n#!!top" expanded="false" />
+            <element signature="n#div#2;n#!!top" expanded="false" />
+            <element signature="n#div#3;n#!!top" expanded="false" />
+            <element signature="n#div#4;n#!!top" expanded="false" />
+            <element signature="n#div#5;n#!!top" expanded="false" />
+            <element signature="n#div#6;n#!!top" expanded="false" />
+            <element signature="n#div#7;n#!!top" expanded="false" />
+            <element signature="n#div#8;n#!!top" expanded="false" />
+            <element signature="n#script#4;n#!!top" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/oss/dist/styles/main-dbd10cf66e.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="262004">
+          <caret line="15412" column="1" lean-forward="false" selection-start-line="15412" selection-start-column="1" selection-end-line="15412" selection-end-column="1" />
+          <folding>
+            <element signature="e#48142#48389#2" expanded="true" />
+            <element signature="e#49233#49553#2" expanded="true" />
+            <element signature="e#50381#50670#2" expanded="true" />
+            <element signature="e#96044#96244#2" expanded="true" />
+            <element signature="e#96384#96533#2" expanded="true" />
+            <element signature="e#96701#96847#2" expanded="true" />
+            <element signature="e#97470#97633#1" expanded="true" />
+            <element signature="e#109925#110168#2" expanded="true" />
+            <element signature="e#111103#111352#2" expanded="true" />
+            <element signature="e#142478#142665#2" expanded="true" />
+            <element signature="e#142721#142910#2" expanded="true" />
+            <element signature="e#348654#349944#0" expanded="false" />
+            <element signature="e#349946#351228#0" expanded="false" />
+            <element signature="e#351237#351301#0" expanded="false" />
+            <element signature="e#351303#351618#0" expanded="false" />
+            <element signature="e#351620#351927#0" expanded="false" />
+            <element signature="e#351937#352003#0" expanded="false" />
+            <element signature="e#352005#352317#0" expanded="false" />
+            <element signature="e#352319#352623#0" expanded="false" />
+            <element signature="e#352634#352702#0" expanded="false" />
+            <element signature="e#352704#352890#0" expanded="false" />
+            <element signature="e#352892#353070#0" expanded="false" />
+            <element signature="e#353260#353280#0" expanded="false" />
+            <element signature="e#353294#353394#0" expanded="false" />
+            <element signature="e#353404#353449#0" expanded="false" />
+            <element signature="e#353477#353495#0" expanded="false" />
+            <element signature="e#353508#353538#0" expanded="false" />
+            <element signature="e#353559#353606#0" expanded="false" />
+            <element signature="e#353619#353640#0" expanded="false" />
+            <element signature="e#353668#353690#0" expanded="false" />
+            <element signature="e#353711#354004#0" expanded="false" />
+            <element signature="e#354021#354095#0" expanded="false" />
+            <element signature="e#354104#354129#0" expanded="false" />
+            <element signature="e#354138#354166#0" expanded="false" />
+            <element signature="e#354177#355022#0" expanded="false" />
+            <element signature="e#355036#355062#0" expanded="false" />
+            <element signature="e#355078#355104#0" expanded="false" />
+            <element signature="e#355121#355146#0" expanded="false" />
+            <element signature="e#355161#355188#0" expanded="false" />
+            <element signature="e#355204#355367#0" expanded="false" />
+            <element signature="e#355385#355411#0" expanded="false" />
+            <element signature="e#355455#355587#0" expanded="false" />
+            <element signature="e#355606#355633#0" expanded="false" />
+            <element signature="e#355658#355702#0" expanded="false" />
+            <element signature="e#355725#355881#0" expanded="false" />
+            <element signature="e#355910#356028#0" expanded="false" />
+            <element signature="e#356053#356207#0" expanded="false" />
+            <element signature="e#356238#356349#0" expanded="false" />
+            <element signature="e#356375#356531#0" expanded="false" />
+            <element signature="e#356563#356678#0" expanded="false" />
+            <element signature="e#356702#356856#0" expanded="false" />
+            <element signature="e#356886#356998#0" expanded="false" />
+            <element signature="e#357006#357147#0" expanded="false" />
+            <element signature="e#357157#357176#0" expanded="false" />
+            <element signature="e#357191#357235#0" expanded="false" />
+            <element signature="e#357277#357300#0" expanded="false" />
+            <element signature="e#357317#357371#0" expanded="false" />
+            <element signature="e#357384#357404#0" expanded="false" />
+            <element signature="e#357429#357490#0" expanded="false" />
+            <element signature="e#357506#357528#0" expanded="false" />
+            <element signature="e#357560#357626#0" expanded="false" />
+            <element signature="e#357666#358112#0" expanded="false" />
+            <element signature="e#358149#358496#0" expanded="false" />
+            <element signature="e#358517#358609#0" expanded="false" />
+            <element signature="e#358610#358694#0" expanded="false" />
+            <element signature="e#358742#358824#0" expanded="false" />
+            <element signature="e#358857#359006#0" expanded="false" />
+            <element signature="e#359015#359411#0" expanded="false" />
+            <element signature="e#359427#359787#0" expanded="false" />
+            <element signature="e#359802#360170#0" expanded="false" />
+            <element signature="e#360171#360628#0" expanded="false" />
+            <element signature="e#360629#361078#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/oss/template-custom.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#6#47#0#PHP" expanded="true" />
+            <element signature="n#div#0;n#!!top" expanded="false" />
+            <element signature="n#div#1;n#!!top" expanded="false" />
+            <element signature="n#div#2;n#!!top" expanded="false" />
+            <element signature="n#div#3;n#!!top" expanded="false" />
+            <element signature="n#div#4;n#!!top" expanded="false" />
+            <element signature="n#div#5;n#!!top" expanded="false" />
+            <element signature="n#div#6;n#!!top" expanded="false" />
+            <element signature="n#div#7;n#!!top" expanded="false" />
+            <element signature="n#div#8;n#!!top" expanded="false" />
+            <element signature="n#script#4;n#!!top" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/oss/dist/styles/main-dbd10cf66e.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="262004">
+          <caret line="15412" column="1" lean-forward="true" selection-start-line="15412" selection-start-column="1" selection-end-line="15412" selection-end-column="1" />
+          <folding>
+            <element signature="e#48142#48389#2" expanded="true" />
+            <element signature="e#49233#49553#2" expanded="true" />
+            <element signature="e#50381#50670#2" expanded="true" />
+            <element signature="e#96044#96244#2" expanded="true" />
+            <element signature="e#96384#96533#2" expanded="true" />
+            <element signature="e#96701#96847#2" expanded="true" />
+            <element signature="e#97470#97633#1" expanded="true" />
+            <element signature="e#109925#110168#2" expanded="true" />
+            <element signature="e#111103#111352#2" expanded="true" />
+            <element signature="e#142478#142665#2" expanded="true" />
+            <element signature="e#142721#142910#2" expanded="true" />
+            <element signature="e#348654#349944#0" expanded="false" />
+            <element signature="e#349946#351228#0" expanded="false" />
+            <element signature="e#351237#351301#0" expanded="false" />
+            <element signature="e#351303#351618#0" expanded="false" />
+            <element signature="e#351620#351927#0" expanded="false" />
+            <element signature="e#351937#352003#0" expanded="false" />
+            <element signature="e#352005#352317#0" expanded="false" />
+            <element signature="e#352319#352623#0" expanded="false" />
+            <element signature="e#352634#352702#0" expanded="false" />
+            <element signature="e#352704#352890#0" expanded="false" />
+            <element signature="e#352892#353070#0" expanded="false" />
+            <element signature="e#353260#353280#0" expanded="false" />
+            <element signature="e#353294#353394#0" expanded="false" />
+            <element signature="e#353404#353449#0" expanded="false" />
+            <element signature="e#353477#353495#0" expanded="false" />
+            <element signature="e#353508#353538#0" expanded="false" />
+            <element signature="e#353559#353606#0" expanded="false" />
+            <element signature="e#353619#353640#0" expanded="false" />
+            <element signature="e#353668#353690#0" expanded="false" />
+            <element signature="e#353711#354004#0" expanded="false" />
+            <element signature="e#354021#354095#0" expanded="false" />
+            <element signature="e#354104#354129#0" expanded="false" />
+            <element signature="e#354138#354166#0" expanded="false" />
+            <element signature="e#354177#355022#0" expanded="false" />
+            <element signature="e#355036#355062#0" expanded="false" />
+            <element signature="e#355078#355104#0" expanded="false" />
+            <element signature="e#355121#355146#0" expanded="false" />
+            <element signature="e#355161#355188#0" expanded="false" />
+            <element signature="e#355204#355367#0" expanded="false" />
+            <element signature="e#355385#355411#0" expanded="false" />
+            <element signature="e#355455#355587#0" expanded="false" />
+            <element signature="e#355606#355633#0" expanded="false" />
+            <element signature="e#355658#355702#0" expanded="false" />
+            <element signature="e#355725#355881#0" expanded="false" />
+            <element signature="e#355910#356028#0" expanded="false" />
+            <element signature="e#356053#356207#0" expanded="false" />
+            <element signature="e#356238#356349#0" expanded="false" />
+            <element signature="e#356375#356531#0" expanded="false" />
+            <element signature="e#356563#356678#0" expanded="false" />
+            <element signature="e#356702#356856#0" expanded="false" />
+            <element signature="e#356886#356998#0" expanded="false" />
+            <element signature="e#357006#357147#0" expanded="false" />
+            <element signature="e#357157#357176#0" expanded="false" />
+            <element signature="e#357191#357235#0" expanded="false" />
+            <element signature="e#357277#357300#0" expanded="false" />
+            <element signature="e#357317#357371#0" expanded="false" />
+            <element signature="e#357384#357404#0" expanded="false" />
+            <element signature="e#357429#357490#0" expanded="false" />
+            <element signature="e#357506#357528#0" expanded="false" />
+            <element signature="e#357560#357626#0" expanded="false" />
+            <element signature="e#357666#358112#0" expanded="false" />
+            <element signature="e#358149#358496#0" expanded="false" />
+            <element signature="e#358517#358609#0" expanded="false" />
+            <element signature="e#358610#358694#0" expanded="false" />
+            <element signature="e#358742#358824#0" expanded="false" />
+            <element signature="e#358857#359006#0" expanded="false" />
+            <element signature="e#359015#359411#0" expanded="false" />
+            <element signature="e#359427#359787#0" expanded="false" />
+            <element signature="e#359802#360170#0" expanded="false" />
+            <element signature="e#360171#360628#0" expanded="false" />
+            <element signature="e#360629#361078#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/oss/template-custom.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="11917">
+          <caret line="703" column="0" lean-forward="false" selection-start-line="703" selection-start-column="0" selection-end-line="703" selection-end-column="0" />
+          <folding>
+            <element signature="e#6#47#0#PHP" expanded="true" />
+            <element signature="n#div#0;n#!!top" expanded="false" />
+            <element signature="n#div#1;n#!!top" expanded="false" />
+            <element signature="n#div#2;n#!!top" expanded="false" />
+            <element signature="n#div#3;n#!!top" expanded="false" />
+            <element signature="n#div#4;n#!!top" expanded="false" />
+            <element signature="n#div#5;n#!!top" expanded="false" />
+            <element signature="n#div#6;n#!!top" expanded="false" />
+            <element signature="n#div#7;n#!!top" expanded="false" />
+            <element signature="n#div#8;n#!!top" expanded="false" />
+            <element signature="n#script#4;n#!!top" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/oss/dist/styles/main-dbd10cf66e.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="261103">
+          <caret line="15359" column="1" lean-forward="true" selection-start-line="15359" selection-start-column="1" selection-end-line="15359" selection-end-column="1" />
+          <folding>
+            <element signature="e#48142#48389#2" expanded="true" />
+            <element signature="e#49233#49553#2" expanded="true" />
+            <element signature="e#50381#50670#2" expanded="true" />
+            <element signature="e#96044#96244#2" expanded="true" />
+            <element signature="e#96384#96533#2" expanded="true" />
+            <element signature="e#96701#96847#2" expanded="true" />
+            <element signature="e#97470#97633#1" expanded="true" />
+            <element signature="e#109925#110168#2" expanded="true" />
+            <element signature="e#111103#111352#2" expanded="true" />
+            <element signature="e#142478#142665#2" expanded="true" />
+            <element signature="e#142721#142910#2" expanded="true" />
+            <element signature="e#348654#349944#0" expanded="false" />
+            <element signature="e#349946#351228#0" expanded="false" />
+            <element signature="e#351237#351301#0" expanded="false" />
+            <element signature="e#351303#351618#0" expanded="false" />
+            <element signature="e#351620#351927#0" expanded="false" />
+            <element signature="e#351937#352003#0" expanded="false" />
+            <element signature="e#352005#352317#0" expanded="false" />
+            <element signature="e#352319#352623#0" expanded="false" />
+            <element signature="e#352634#352702#0" expanded="false" />
+            <element signature="e#352704#352890#0" expanded="false" />
+            <element signature="e#352892#353070#0" expanded="false" />
+            <element signature="e#353260#353280#0" expanded="false" />
+            <element signature="e#353294#353394#0" expanded="false" />
+            <element signature="e#353404#353449#0" expanded="false" />
+            <element signature="e#353477#353495#0" expanded="false" />
+            <element signature="e#353508#353538#0" expanded="false" />
+            <element signature="e#353559#353606#0" expanded="false" />
+            <element signature="e#353619#353640#0" expanded="false" />
+            <element signature="e#353668#353690#0" expanded="false" />
+            <element signature="e#353711#354004#0" expanded="false" />
+            <element signature="e#354021#354095#0" expanded="false" />
+            <element signature="e#354104#354129#0" expanded="false" />
+            <element signature="e#354138#354166#0" expanded="false" />
+            <element signature="e#354177#355022#0" expanded="false" />
+            <element signature="e#355036#355062#0" expanded="false" />
+            <element signature="e#355078#355104#0" expanded="false" />
+            <element signature="e#355121#355146#0" expanded="false" />
+            <element signature="e#355161#355188#0" expanded="false" />
+            <element signature="e#355204#355367#0" expanded="false" />
+            <element signature="e#355385#355411#0" expanded="false" />
+            <element signature="e#355455#355587#0" expanded="false" />
+            <element signature="e#355606#355633#0" expanded="false" />
+            <element signature="e#355658#355702#0" expanded="false" />
+            <element signature="e#355725#355881#0" expanded="false" />
+            <element signature="e#355910#356028#0" expanded="false" />
+            <element signature="e#356053#356207#0" expanded="false" />
+            <element signature="e#356238#356349#0" expanded="false" />
+            <element signature="e#356375#356531#0" expanded="false" />
+            <element signature="e#356563#356678#0" expanded="false" />
+            <element signature="e#356702#356856#0" expanded="false" />
+            <element signature="e#356886#356998#0" expanded="false" />
+            <element signature="e#357006#357147#0" expanded="false" />
+            <element signature="e#357157#357176#0" expanded="false" />
+            <element signature="e#357191#357235#0" expanded="false" />
+            <element signature="e#357277#357300#0" expanded="false" />
+            <element signature="e#357317#357371#0" expanded="false" />
+            <element signature="e#357384#357404#0" expanded="false" />
+            <element signature="e#357429#357490#0" expanded="false" />
+            <element signature="e#357506#357528#0" expanded="false" />
+            <element signature="e#357560#357626#0" expanded="false" />
+            <element signature="e#357666#358112#0" expanded="false" />
+            <element signature="e#358149#358496#0" expanded="false" />
+            <element signature="e#358517#358609#0" expanded="false" />
+            <element signature="e#358610#358694#0" expanded="false" />
+            <element signature="e#358742#358824#0" expanded="false" />
+            <element signature="e#358857#359006#0" expanded="false" />
+            <element signature="e#359015#359411#0" expanded="false" />
+            <element signature="e#359427#359787#0" expanded="false" />
+            <element signature="e#359802#360170#0" expanded="false" />
+            <element signature="e#360171#360628#0" expanded="false" />
+            <element signature="e#360629#361078#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/oss/captcha_img.php" />
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/oss/template-custom.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2227">
+          <caret line="133" column="40" lean-forward="false" selection-start-line="133" selection-start-column="40" selection-end-line="133" selection-end-column="40" />
+          <folding>
+            <element signature="e#6#47#0#PHP" expanded="true" />
+            <element signature="n#div#0;n#!!top" expanded="false" />
+            <element signature="n#div#1;n#!!top" expanded="false" />
+            <element signature="n#div#2;n#!!top" expanded="false" />
+            <element signature="n#div#3;n#!!top" expanded="false" />
+            <element signature="n#div#4;n#!!top" expanded="false" />
+            <element signature="n#div#5;n#!!top" expanded="false" />
+            <element signature="n#div#6;n#!!top" expanded="false" />
+            <element signature="n#div#7;n#!!top" expanded="false" />
+            <element signature="n#div#8;n#!!top" expanded="false" />
+            <element signature="n#script#4;n#!!top" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/oss/dist/styles/main-dbd10cf66e.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="257941">
+          <caret line="15173" column="17" lean-forward="false" selection-start-line="15173" selection-start-column="17" selection-end-line="15173" selection-end-column="17" />
+          <folding>
+            <element signature="e#48142#48389#2" expanded="true" />
+            <element signature="e#49233#49553#2" expanded="true" />
+            <element signature="e#50381#50670#2" expanded="true" />
+            <element signature="e#96044#96244#2" expanded="true" />
+            <element signature="e#96384#96533#2" expanded="true" />
+            <element signature="e#96701#96847#2" expanded="true" />
+            <element signature="e#97470#97633#1" expanded="true" />
+            <element signature="e#109925#110168#2" expanded="true" />
+            <element signature="e#111103#111352#2" expanded="true" />
+            <element signature="e#142478#142665#2" expanded="true" />
+            <element signature="e#142721#142910#2" expanded="true" />
+            <element signature="e#348654#349944#0" expanded="false" />
+            <element signature="e#349946#351228#0" expanded="false" />
+            <element signature="e#351237#351301#0" expanded="false" />
+            <element signature="e#351303#351618#0" expanded="false" />
+            <element signature="e#351620#351927#0" expanded="false" />
+            <element signature="e#351937#352003#0" expanded="false" />
+            <element signature="e#352005#352317#0" expanded="false" />
+            <element signature="e#352319#352623#0" expanded="false" />
+            <element signature="e#352634#352702#0" expanded="false" />
+            <element signature="e#352704#352890#0" expanded="false" />
+            <element signature="e#352892#353070#0" expanded="false" />
+            <element signature="e#353260#353280#0" expanded="false" />
+            <element signature="e#353294#353394#0" expanded="false" />
+            <element signature="e#353404#353449#0" expanded="false" />
+            <element signature="e#353477#353495#0" expanded="false" />
+            <element signature="e#353508#353538#0" expanded="false" />
+            <element signature="e#353559#353606#0" expanded="false" />
+            <element signature="e#353619#353640#0" expanded="false" />
+            <element signature="e#353668#353690#0" expanded="false" />
+            <element signature="e#353711#354004#0" expanded="false" />
+            <element signature="e#354021#354095#0" expanded="false" />
+            <element signature="e#354104#354129#0" expanded="false" />
+            <element signature="e#354138#354166#0" expanded="false" />
+            <element signature="e#354177#355022#0" expanded="false" />
+            <element signature="e#355036#355062#0" expanded="false" />
+            <element signature="e#355078#355104#0" expanded="false" />
+            <element signature="e#355121#355146#0" expanded="false" />
+            <element signature="e#355161#355188#0" expanded="false" />
+            <element signature="e#355204#355367#0" expanded="false" />
+            <element signature="e#355385#355411#0" expanded="false" />
+            <element signature="e#355455#355587#0" expanded="false" />
+            <element signature="e#355606#355633#0" expanded="false" />
+            <element signature="e#355658#355702#0" expanded="false" />
+            <element signature="e#355725#355881#0" expanded="false" />
+            <element signature="e#355910#356028#0" expanded="false" />
+            <element signature="e#356053#356207#0" expanded="false" />
+            <element signature="e#356238#356349#0" expanded="false" />
+            <element signature="e#356375#356531#0" expanded="false" />
+            <element signature="e#356563#356678#0" expanded="false" />
+            <element signature="e#356702#356856#0" expanded="false" />
+            <element signature="e#356886#356998#0" expanded="false" />
+            <element signature="e#357006#357147#0" expanded="false" />
+            <element signature="e#357157#357176#0" expanded="false" />
+            <element signature="e#357191#357235#0" expanded="false" />
+            <element signature="e#357277#357300#0" expanded="false" />
+            <element signature="e#357317#357371#0" expanded="false" />
+            <element signature="e#357384#357404#0" expanded="false" />
+            <element signature="e#357429#357490#0" expanded="false" />
+            <element signature="e#357506#357528#0" expanded="false" />
+            <element signature="e#357560#357626#0" expanded="false" />
+            <element signature="e#357666#358112#0" expanded="false" />
+            <element signature="e#358149#358496#0" expanded="false" />
+            <element signature="e#358517#358609#0" expanded="false" />
+            <element signature="e#358610#358694#0" expanded="false" />
+            <element signature="e#358742#358824#0" expanded="false" />
+            <element signature="e#358857#359006#0" expanded="false" />
+            <element signature="e#359015#359411#0" expanded="false" />
+            <element signature="e#359427#359787#0" expanded="false" />
+            <element signature="e#359802#360170#0" expanded="false" />
+            <element signature="e#360171#360628#0" expanded="false" />
+            <element signature="e#360629#361078#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/oss/captcha_img.php" />
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/oss/template-custom.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2261">
+          <caret line="133" column="40" lean-forward="false" selection-start-line="133" selection-start-column="40" selection-end-line="133" selection-end-column="40" />
+          <folding>
+            <element signature="e#6#47#0#PHP" expanded="true" />
+            <element signature="n#div#0;n#!!top" expanded="false" />
+            <element signature="n#div#1;n#!!top" expanded="false" />
+            <element signature="n#div#2;n#!!top" expanded="false" />
+            <element signature="n#div#3;n#!!top" expanded="false" />
+            <element signature="n#div#4;n#!!top" expanded="false" />
+            <element signature="n#div#5;n#!!top" expanded="false" />
+            <element signature="n#div#6;n#!!top" expanded="false" />
+            <element signature="n#div#7;n#!!top" expanded="false" />
+            <element signature="n#div#8;n#!!top" expanded="false" />
+            <element signature="n#script#4;n#!!top" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/oss/dist/styles/main-dbd10cf66e.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="257941">
+          <caret line="15173" column="17" lean-forward="false" selection-start-line="15173" selection-start-column="17" selection-end-line="15173" selection-end-column="17" />
+          <folding>
+            <element signature="e#48142#48389#2" expanded="true" />
+            <element signature="e#49233#49553#2" expanded="true" />
+            <element signature="e#50381#50670#2" expanded="true" />
+            <element signature="e#96044#96244#2" expanded="true" />
+            <element signature="e#96384#96533#2" expanded="true" />
+            <element signature="e#96701#96847#2" expanded="true" />
+            <element signature="e#97470#97633#1" expanded="true" />
+            <element signature="e#109925#110168#2" expanded="true" />
+            <element signature="e#111103#111352#2" expanded="true" />
+            <element signature="e#142478#142665#2" expanded="true" />
+            <element signature="e#142721#142910#2" expanded="true" />
+            <element signature="e#348654#349944#0" expanded="false" />
+            <element signature="e#349946#351228#0" expanded="false" />
+            <element signature="e#351237#351301#0" expanded="false" />
+            <element signature="e#351303#351618#0" expanded="false" />
+            <element signature="e#351620#351927#0" expanded="false" />
+            <element signature="e#351937#352003#0" expanded="false" />
+            <element signature="e#352005#352317#0" expanded="false" />
+            <element signature="e#352319#352623#0" expanded="false" />
+            <element signature="e#352634#352702#0" expanded="false" />
+            <element signature="e#352704#352890#0" expanded="false" />
+            <element signature="e#352892#353070#0" expanded="false" />
+            <element signature="e#353260#353280#0" expanded="false" />
+            <element signature="e#353294#353394#0" expanded="false" />
+            <element signature="e#353404#353449#0" expanded="false" />
+            <element signature="e#353477#353495#0" expanded="false" />
+            <element signature="e#353508#353538#0" expanded="false" />
+            <element signature="e#353559#353606#0" expanded="false" />
+            <element signature="e#353619#353640#0" expanded="false" />
+            <element signature="e#353668#353690#0" expanded="false" />
+            <element signature="e#353711#354004#0" expanded="false" />
+            <element signature="e#354021#354095#0" expanded="false" />
+            <element signature="e#354104#354129#0" expanded="false" />
+            <element signature="e#354138#354166#0" expanded="false" />
+            <element signature="e#354177#355022#0" expanded="false" />
+            <element signature="e#355036#355062#0" expanded="false" />
+            <element signature="e#355078#355104#0" expanded="false" />
+            <element signature="e#355121#355146#0" expanded="false" />
+            <element signature="e#355161#355188#0" expanded="false" />
+            <element signature="e#355204#355367#0" expanded="false" />
+            <element signature="e#355385#355411#0" expanded="false" />
+            <element signature="e#355455#355587#0" expanded="false" />
+            <element signature="e#355606#355633#0" expanded="false" />
+            <element signature="e#355658#355702#0" expanded="false" />
+            <element signature="e#355725#355881#0" expanded="false" />
+            <element signature="e#355910#356028#0" expanded="false" />
+            <element signature="e#356053#356207#0" expanded="false" />
+            <element signature="e#356238#356349#0" expanded="false" />
+            <element signature="e#356375#356531#0" expanded="false" />
+            <element signature="e#356563#356678#0" expanded="false" />
+            <element signature="e#356702#356856#0" expanded="false" />
+            <element signature="e#356886#356998#0" expanded="false" />
+            <element signature="e#357006#357147#0" expanded="false" />
+            <element signature="e#357157#357176#0" expanded="false" />
+            <element signature="e#357191#357235#0" expanded="false" />
+            <element signature="e#357277#357300#0" expanded="false" />
+            <element signature="e#357317#357371#0" expanded="false" />
+            <element signature="e#357384#357404#0" expanded="false" />
+            <element signature="e#357429#357490#0" expanded="false" />
+            <element signature="e#357506#357528#0" expanded="false" />
+            <element signature="e#357560#357626#0" expanded="false" />
+            <element signature="e#357666#358112#0" expanded="false" />
+            <element signature="e#358149#358496#0" expanded="false" />
+            <element signature="e#358517#358609#0" expanded="false" />
+            <element signature="e#358610#358694#0" expanded="false" />
+            <element signature="e#358742#358824#0" expanded="false" />
+            <element signature="e#358857#359006#0" expanded="false" />
+            <element signature="e#359015#359411#0" expanded="false" />
+            <element signature="e#359427#359787#0" expanded="false" />
+            <element signature="e#359802#360170#0" expanded="false" />
+            <element signature="e#360171#360628#0" expanded="false" />
+            <element signature="e#360629#361078#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/oss/captcha_img.php" />
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/oss/dist/styles/main-dbd10cf66e.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="257941">
+          <caret line="15173" column="17" lean-forward="true" selection-start-line="15173" selection-start-column="17" selection-end-line="15173" selection-end-column="17" />
+          <folding>
+            <element signature="e#48142#48389#2" expanded="true" />
+            <element signature="e#49233#49553#2" expanded="true" />
+            <element signature="e#50381#50670#2" expanded="true" />
+            <element signature="e#96044#96244#2" expanded="true" />
+            <element signature="e#96384#96533#2" expanded="true" />
+            <element signature="e#96701#96847#2" expanded="true" />
+            <element signature="e#97470#97633#1" expanded="true" />
+            <element signature="e#109925#110168#2" expanded="true" />
+            <element signature="e#111103#111352#2" expanded="true" />
+            <element signature="e#142478#142665#2" expanded="true" />
+            <element signature="e#142721#142910#2" expanded="true" />
+            <element signature="e#348654#349944#0" expanded="false" />
+            <element signature="e#349946#351228#0" expanded="false" />
+            <element signature="e#351237#351301#0" expanded="false" />
+            <element signature="e#351303#351618#0" expanded="false" />
+            <element signature="e#351620#351927#0" expanded="false" />
+            <element signature="e#351937#352003#0" expanded="false" />
+            <element signature="e#352005#352317#0" expanded="false" />
+            <element signature="e#352319#352623#0" expanded="false" />
+            <element signature="e#352634#352702#0" expanded="false" />
+            <element signature="e#352704#352890#0" expanded="false" />
+            <element signature="e#352892#353070#0" expanded="false" />
+            <element signature="e#353260#353280#0" expanded="false" />
+            <element signature="e#353294#353394#0" expanded="false" />
+            <element signature="e#353404#353449#0" expanded="false" />
+            <element signature="e#353477#353495#0" expanded="false" />
+            <element signature="e#353508#353538#0" expanded="false" />
+            <element signature="e#353559#353606#0" expanded="false" />
+            <element signature="e#353619#353640#0" expanded="false" />
+            <element signature="e#353668#353690#0" expanded="false" />
+            <element signature="e#353711#354004#0" expanded="false" />
+            <element signature="e#354021#354095#0" expanded="false" />
+            <element signature="e#354104#354129#0" expanded="false" />
+            <element signature="e#354138#354166#0" expanded="false" />
+            <element signature="e#354177#355022#0" expanded="false" />
+            <element signature="e#355036#355062#0" expanded="false" />
+            <element signature="e#355078#355104#0" expanded="false" />
+            <element signature="e#355121#355146#0" expanded="false" />
+            <element signature="e#355161#355188#0" expanded="false" />
+            <element signature="e#355204#355367#0" expanded="false" />
+            <element signature="e#355385#355411#0" expanded="false" />
+            <element signature="e#355455#355587#0" expanded="false" />
+            <element signature="e#355606#355633#0" expanded="false" />
+            <element signature="e#355658#355702#0" expanded="false" />
+            <element signature="e#355725#355881#0" expanded="false" />
+            <element signature="e#355910#356028#0" expanded="false" />
+            <element signature="e#356053#356207#0" expanded="false" />
+            <element signature="e#356238#356349#0" expanded="false" />
+            <element signature="e#356375#356531#0" expanded="false" />
+            <element signature="e#356563#356678#0" expanded="false" />
+            <element signature="e#356702#356856#0" expanded="false" />
+            <element signature="e#356886#356998#0" expanded="false" />
+            <element signature="e#357006#357147#0" expanded="false" />
+            <element signature="e#357157#357176#0" expanded="false" />
+            <element signature="e#357191#357235#0" expanded="false" />
+            <element signature="e#357277#357300#0" expanded="false" />
+            <element signature="e#357317#357371#0" expanded="false" />
+            <element signature="e#357384#357404#0" expanded="false" />
+            <element signature="e#357429#357490#0" expanded="false" />
+            <element signature="e#357506#357528#0" expanded="false" />
+            <element signature="e#357560#357626#0" expanded="false" />
+            <element signature="e#357666#358112#0" expanded="false" />
+            <element signature="e#358149#358496#0" expanded="false" />
+            <element signature="e#358517#358609#0" expanded="false" />
+            <element signature="e#358610#358694#0" expanded="false" />
+            <element signature="e#358742#358824#0" expanded="false" />
+            <element signature="e#358857#359006#0" expanded="false" />
+            <element signature="e#359015#359411#0" expanded="false" />
+            <element signature="e#359427#359787#0" expanded="false" />
+            <element signature="e#359802#360170#0" expanded="false" />
+            <element signature="e#360171#360628#0" expanded="false" />
+            <element signature="e#360629#361078#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/oss/template-custom.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="28" lean-forward="false" selection-start-line="10" selection-start-column="28" selection-end-line="10" selection-end-column="28" />
+          <folding>
+            <element signature="e#6#47#0#PHP" expanded="true" />
+            <element signature="n#div#0;n#!!top" expanded="false" />
+            <element signature="n#div#1;n#!!top" expanded="false" />
+            <element signature="n#div#2;n#!!top" expanded="false" />
+            <element signature="n#div#3;n#!!top" expanded="false" />
+            <element signature="n#div#4;n#!!top" expanded="false" />
+            <element signature="n#div#5;n#!!top" expanded="false" />
+            <element signature="n#div#6;n#!!top" expanded="false" />
+            <element signature="n#div#7;n#!!top" expanded="false" />
+            <element signature="n#div#8;n#!!top" expanded="false" />
+            <element signature="n#script#4;n#!!top" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/oss/template-custom.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#6#47#0#PHP" expanded="true" />
+            <element signature="n#div#0;n#!!top" expanded="false" />
+            <element signature="n#div#1;n#!!top" expanded="false" />
+            <element signature="n#div#2;n#!!top" expanded="false" />
+            <element signature="n#div#3;n#!!top" expanded="false" />
+            <element signature="n#div#4;n#!!top" expanded="false" />
+            <element signature="n#div#5;n#!!top" expanded="false" />
+            <element signature="n#div#6;n#!!top" expanded="false" />
+            <element signature="n#div#7;n#!!top" expanded="false" />
+            <element signature="n#div#8;n#!!top" expanded="false" />
+            <element signature="n#script#4;n#!!top" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-config.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1445">
+          <caret line="85" column="35" lean-forward="false" selection-start-line="85" selection-start-column="35" selection-end-line="85" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/oss/template-custom.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#6#47#0#PHP" expanded="true" />
+            <element signature="n#div#0;n#!!top" expanded="false" />
+            <element signature="n#div#1;n#!!top" expanded="false" />
+            <element signature="n#div#2;n#!!top" expanded="false" />
+            <element signature="n#div#3;n#!!top" expanded="false" />
+            <element signature="n#div#4;n#!!top" expanded="false" />
+            <element signature="n#div#5;n#!!top" expanded="false" />
+            <element signature="n#div#6;n#!!top" expanded="false" />
+            <element signature="n#div#7;n#!!top" expanded="false" />
+            <element signature="n#div#8;n#!!top" expanded="false" />
+            <element signature="n#script#4;n#!!top" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-config.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1445">
+          <caret line="85" column="35" lean-forward="true" selection-start-line="85" selection-start-column="35" selection-end-line="85" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.htaccess">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="24" lean-forward="false" selection-start-line="4" selection-start-column="24" selection-end-line="4" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-includes/class-phpmailer.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-includes/class-snoopy.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-5253">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-includes/class-walker-category.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-3978">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-includes/class-walker-comment.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1785">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-includes/class-wp-comment.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-4641">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-includes/class-wp-date-query.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-510">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/oss/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/oss/dist/styles/main-dbd10cf66e_BU.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/oss/dist/styles/main-78406bbce4.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1122">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/oss/templates/content.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/oss/templates/header.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="47" column="10" lean-forward="true" selection-start-line="47" selection-start-column="10" selection-end-line="47" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/oss/template-contact.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="59" lean-forward="true" selection-start-line="7" selection-start-column="2" selection-end-line="7" selection-end-column="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/oss/dist/assets.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/oss/simple-php-captcha.php" />
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/oss/captcha.php" />
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/oss/functions.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="3" lean-forward="false" selection-start-line="10" selection-start-column="3" selection-end-line="10" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-config.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="527">
+          <caret line="85" column="35" lean-forward="false" selection-start-line="85" selection-start-column="35" selection-end-line="85" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/oss/mycaptcha.php" />
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/oss/captcha_img.php" />
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/oss/js/bootstrap.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="4890" lean-forward="false" selection-start-line="6" selection-start-column="4890" selection-end-line="6" selection-end-column="4890" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/oss/js/jquery.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="26" lean-forward="true" selection-start-line="11" selection-start-column="26" selection-end-line="11" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/oss/js/jquery.inputmask.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="10" lean-forward="false" selection-start-line="9" selection-start-column="10" selection-end-line="9" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/oss/dist/styles/main-dbd10cf66e.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255204">
+          <caret line="15195" column="1" lean-forward="false" selection-start-line="15195" selection-start-column="1" selection-end-line="15195" selection-end-column="1" />
+          <folding>
+            <element signature="e#48142#48389#2" expanded="true" />
+            <element signature="e#49233#49553#2" expanded="true" />
+            <element signature="e#50381#50670#2" expanded="true" />
+            <element signature="e#96044#96244#2" expanded="true" />
+            <element signature="e#96384#96533#2" expanded="true" />
+            <element signature="e#96701#96847#2" expanded="true" />
+            <element signature="e#97470#97633#1" expanded="true" />
+            <element signature="e#109925#110168#2" expanded="true" />
+            <element signature="e#111103#111352#2" expanded="true" />
+            <element signature="e#142478#142665#2" expanded="true" />
+            <element signature="e#142721#142910#2" expanded="true" />
+            <element signature="e#348654#349944#0" expanded="false" />
+            <element signature="e#349946#351228#0" expanded="false" />
+            <element signature="e#351237#351301#0" expanded="false" />
+            <element signature="e#351303#351618#0" expanded="false" />
+            <element signature="e#351620#351927#0" expanded="false" />
+            <element signature="e#351937#352003#0" expanded="false" />
+            <element signature="e#352005#352317#0" expanded="false" />
+            <element signature="e#352319#352623#0" expanded="false" />
+            <element signature="e#352634#352702#0" expanded="false" />
+            <element signature="e#352704#352890#0" expanded="false" />
+            <element signature="e#352892#353070#0" expanded="false" />
+            <element signature="e#353260#353280#0" expanded="false" />
+            <element signature="e#353294#353394#0" expanded="false" />
+            <element signature="e#353404#353449#0" expanded="false" />
+            <element signature="e#353477#353495#0" expanded="false" />
+            <element signature="e#353508#353538#0" expanded="false" />
+            <element signature="e#353559#353606#0" expanded="false" />
+            <element signature="e#353619#353640#0" expanded="false" />
+            <element signature="e#353668#353690#0" expanded="false" />
+            <element signature="e#353711#354004#0" expanded="false" />
+            <element signature="e#354021#354095#0" expanded="false" />
+            <element signature="e#354104#354129#0" expanded="false" />
+            <element signature="e#354138#354166#0" expanded="false" />
+            <element signature="e#354177#355022#0" expanded="false" />
+            <element signature="e#355036#355062#0" expanded="false" />
+            <element signature="e#355078#355104#0" expanded="false" />
+            <element signature="e#355121#355146#0" expanded="false" />
+            <element signature="e#355161#355188#0" expanded="false" />
+            <element signature="e#355204#355367#0" expanded="false" />
+            <element signature="e#355385#355411#0" expanded="false" />
+            <element signature="e#355455#355587#0" expanded="false" />
+            <element signature="e#355606#355633#0" expanded="false" />
+            <element signature="e#355658#355702#0" expanded="false" />
+            <element signature="e#355725#355881#0" expanded="false" />
+            <element signature="e#355910#356028#0" expanded="false" />
+            <element signature="e#356053#356207#0" expanded="false" />
+            <element signature="e#356238#356349#0" expanded="false" />
+            <element signature="e#356375#356531#0" expanded="false" />
+            <element signature="e#356563#356678#0" expanded="false" />
+            <element signature="e#356702#356856#0" expanded="false" />
+            <element signature="e#356886#356998#0" expanded="false" />
+            <element signature="e#357006#357147#0" expanded="false" />
+            <element signature="e#357157#357176#0" expanded="false" />
+            <element signature="e#357191#357235#0" expanded="false" />
+            <element signature="e#357277#357300#0" expanded="false" />
+            <element signature="e#357317#357371#0" expanded="false" />
+            <element signature="e#357384#357404#0" expanded="false" />
+            <element signature="e#357429#357490#0" expanded="false" />
+            <element signature="e#357506#357528#0" expanded="false" />
+            <element signature="e#357560#357626#0" expanded="false" />
+            <element signature="e#357666#358112#0" expanded="false" />
+            <element signature="e#358149#358496#0" expanded="false" />
+            <element signature="e#358517#358609#0" expanded="false" />
+            <element signature="e#358610#358694#0" expanded="false" />
+            <element signature="e#358742#358824#0" expanded="false" />
+            <element signature="e#358857#359006#0" expanded="false" />
+            <element signature="e#359015#359411#0" expanded="false" />
+            <element signature="e#359427#359787#0" expanded="false" />
+            <element signature="e#359802#360170#0" expanded="false" />
+            <element signature="e#360171#360628#0" expanded="false" />
+            <element signature="e#360629#361078#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/oss/css/font-awesome.min.css" />
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/oss/template-custom.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="208" column="6" lean-forward="false" selection-start-line="208" selection-start-column="6" selection-end-line="208" selection-end-column="6" />
+          <folding>
+            <element signature="e#6#47#0#PHP" expanded="true" />
+            <element signature="n#div#0;n#!!top" expanded="false" />
+            <element signature="n#div#1;n#!!top" expanded="false" />
+            <element signature="n#div#2;n#!!top" expanded="false" />
+            <element signature="n#div#3;n#!!top" expanded="false" />
+            <element signature="n#div#4;n#!!top" expanded="false" />
+            <element signature="n#div#5;n#!!top" expanded="false" />
+            <element signature="n#div#6;n#!!top" expanded="false" />
+            <element signature="n#div#7;n#!!top" expanded="false" />
+            <element signature="n#div#8;n#!!top" expanded="false" />
+            <element signature="n#script#4;n#!!top" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

@@ -1,0 +1,275 @@
+.doc-wrap {
+  position: relative;
+  overflow-x: hidden;
+}
+
+button, input, optgroup, select, textarea {
+  font-family: $font-family-sans-serif;
+}
+
+body {
+  overflow-x: hidden;
+  max-width: 100%;
+  min-width: 320px;
+}
+
+textarea {
+  resize: none;
+}
+
+a, input, textarea, button {
+  @include transition-property(color, background);
+  @include transition-duration(.14s);
+  @include transition-timing-function(ease-in-out);
+  &:hover, &:focus {
+    outline: 0;
+  }
+}
+
+svg {
+  max-width: 100%;
+}
+
+iframe {
+  max-width: 100%;
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+}
+
+.text-center {
+  text-align: center;
+}
+
+html {
+  font-size: 14px;
+}
+
+.green--btn {
+  text-align: center;
+  display: inline-block;
+  min-width: 100px;
+  height: 50px;
+  line-height: 50px;
+  padding: 0 16px;
+  text-transform: uppercase;
+  font-family: $font-dosis;
+  font-weight: 700;
+  color: #fff;
+  background: $brand-green;
+  &:hover, &:focus {
+    background: $brand-purple;
+    color: #fff;
+  }
+}
+
+// FONT SIZES
+
+.font-20 {
+  font-size: 1.15rem;
+}
+
+.font-24 {
+  font-size: 1.25rem;
+}
+
+.font-30 {
+  font-size: 1.5rem;
+}
+
+.font-40 {
+  font-size: 1.9rem;
+}
+
+.font-70 {
+  font-size: 2.7rem;
+}
+
+.sk-circle {
+  margin: 100px auto;
+  width: 40px;
+  height: 40px;
+  position: relative;
+}
+
+.sk-circle .sk-child {
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  left: 0;
+  top: 0;
+}
+
+.sk-circle .sk-child:before {
+  content: '';
+  display: block;
+  margin: 0 auto;
+  width: 15%;
+  height: 15%;
+  background-color: $brand-green;
+  border-radius: 100%;
+  -webkit-animation: sk-circleBounceDelay 1.2s infinite ease-in-out both;
+          animation: sk-circleBounceDelay 1.2s infinite ease-in-out both;
+}
+
+.sk-circle .sk-circle2 {
+  -webkit-transform: rotate(30deg);
+      -ms-transform: rotate(30deg);
+          transform: rotate(30deg); }
+.sk-circle .sk-circle3 {
+  -webkit-transform: rotate(60deg);
+      -ms-transform: rotate(60deg);
+          transform: rotate(60deg); }
+.sk-circle .sk-circle4 {
+  -webkit-transform: rotate(90deg);
+      -ms-transform: rotate(90deg);
+          transform: rotate(90deg); }
+.sk-circle .sk-circle5 {
+  -webkit-transform: rotate(120deg);
+      -ms-transform: rotate(120deg);
+          transform: rotate(120deg); }
+.sk-circle .sk-circle6 {
+  -webkit-transform: rotate(150deg);
+      -ms-transform: rotate(150deg);
+          transform: rotate(150deg); }
+.sk-circle .sk-circle7 {
+  -webkit-transform: rotate(180deg);
+      -ms-transform: rotate(180deg);
+          transform: rotate(180deg); }
+.sk-circle .sk-circle8 {
+  -webkit-transform: rotate(210deg);
+      -ms-transform: rotate(210deg);
+          transform: rotate(210deg); }
+.sk-circle .sk-circle9 {
+  -webkit-transform: rotate(240deg);
+      -ms-transform: rotate(240deg);
+          transform: rotate(240deg); }
+.sk-circle .sk-circle10 {
+  -webkit-transform: rotate(270deg);
+      -ms-transform: rotate(270deg);
+          transform: rotate(270deg); }
+.sk-circle .sk-circle11 {
+  -webkit-transform: rotate(300deg);
+      -ms-transform: rotate(300deg);
+          transform: rotate(300deg); }
+.sk-circle .sk-circle12 {
+  -webkit-transform: rotate(330deg);
+      -ms-transform: rotate(330deg);
+          transform: rotate(330deg); }
+.sk-circle .sk-circle2:before {
+  -webkit-animation-delay: -1.1s;
+          animation-delay: -1.1s; }
+.sk-circle .sk-circle3:before {
+  -webkit-animation-delay: -1s;
+          animation-delay: -1s; }
+.sk-circle .sk-circle4:before {
+  -webkit-animation-delay: -0.9s;
+          animation-delay: -0.9s; }
+.sk-circle .sk-circle5:before {
+  -webkit-animation-delay: -0.8s;
+          animation-delay: -0.8s; }
+.sk-circle .sk-circle6:before {
+  -webkit-animation-delay: -0.7s;
+          animation-delay: -0.7s; }
+.sk-circle .sk-circle7:before {
+  -webkit-animation-delay: -0.6s;
+          animation-delay: -0.6s; }
+.sk-circle .sk-circle8:before {
+  -webkit-animation-delay: -0.5s;
+          animation-delay: -0.5s; }
+.sk-circle .sk-circle9:before {
+  -webkit-animation-delay: -0.4s;
+          animation-delay: -0.4s; }
+.sk-circle .sk-circle10:before {
+  -webkit-animation-delay: -0.3s;
+          animation-delay: -0.3s; }
+.sk-circle .sk-circle11:before {
+  -webkit-animation-delay: -0.2s;
+          animation-delay: -0.2s; }
+.sk-circle .sk-circle12:before {
+  -webkit-animation-delay: -0.1s;
+          animation-delay: -0.1s; }
+
+@-webkit-keyframes sk-circleBounceDelay {
+  0%, 80%, 100% {
+    -webkit-transform: scale(0);
+            transform: scale(0);
+  } 40% {
+    -webkit-transform: scale(1);
+            transform: scale(1);
+  }
+}
+
+@keyframes sk-circleBounceDelay {
+  0%, 80%, 100% {
+    -webkit-transform: scale(0);
+            transform: scale(0);
+  } 40% {
+    -webkit-transform: scale(1);
+            transform: scale(1);
+  }
+}
+
+@include media-breakpoint-up(sm) {
+
+}
+
+@include media-breakpoint-up(md) {
+  html {
+    font-size: 15px;
+  }
+}
+
+@include media-breakpoint-up(lg) {
+  .green--btn {
+    min-width: 130px;
+  }
+
+  .font-20 {
+    font-size: 1.176rem;
+  }
+
+  .font-24 {
+    font-size: 1.412rem;
+  }
+
+  .font-30 {
+    font-size: 1.765rem;
+  }
+
+  .font-40 {
+    font-size: 2.353rem;
+  }
+
+  .font-70 {
+    font-size: 4.118rem;
+  }
+}
+
+@include media-breakpoint-up(xl) {
+  html {
+    font-size: 16px;
+  }
+
+  .font-20 {
+    font-size: 1.25rem;
+  }
+
+  .font-24 {
+    font-size: 1.5rem;
+  }
+
+  .font-30 {
+    font-size: 1.875rem;
+  }
+
+  .font-40 {
+    font-size: 2.5rem;
+  }
+
+  .font-70 {
+    font-size: 4.375rem;
+  }
+}

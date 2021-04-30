@@ -1,0 +1,6 @@
+[06-Dec-2018 11:44:46 UTC] PHP Fatal error:  Call to undefined function add_action() in /home/schilds7/public_html/wp-content/themes/twentyseventeen/inc/template-tags.php on line 196
+[06-Dec-2018 12:32:20 UTC] PHP Fatal error:  Call to undefined function add_action() in /home/schilds7/public_html/wp-content/themes/twentyseventeen/inc/template-tags.php on line 196
+[07-Dec-2018 02:01:04 UTC] PHP Fatal error:  Call to undefined function add_action() in /home/schilds7/public_html/wp-content/themes/twentyseventeen/inc/icon-functions.php on line 22
+[07-Dec-2018 04:53:21 UTC] PHP Fatal error:  Call to undefined function add_action() in /home/schilds7/public_html/wp-content/themes/twentyseventeen/inc/icon-functions.php on line 22
+[22-May-2019 16:55:14 UTC] PHP Fatal error:  Call to undefined function add_action() in /home/schilds7/public_html/wp-content/themes/twentyseventeen/inc/back-compat.php on line 26
+[22-May-2019 22:36:21 UTC] PHP Fatal error:  Call to undefined function add_action() in /home/schilds7/public_html/wp-content/themes/twentyseventeen/inc/back-compat.php on line 26

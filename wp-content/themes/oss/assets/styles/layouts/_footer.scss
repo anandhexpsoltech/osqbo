@@ -1,0 +1,80 @@
+.footer--logo {
+  display: inline-block;
+  @include transition-property(opacity);
+  max-width: 90%;
+  margin-bottom: 40px;
+  img {
+    display: block;
+  }
+  &:hover, &:focus {
+    @include opacity(0.85);
+  }
+}
+
+.footer-bottom {
+  background: #f6f6f6;
+  color: $brand-gray;
+  padding-top: 1rem;
+  p {
+    @include opacity(0.7);
+  }
+}
+
+.footer-top {
+  color: #000;
+  padding: 80px 0 40px;
+}
+
+.footer-widget {
+  margin-bottom: 40px;
+  .widget--title {
+    font-family: $font-dosis;
+    font-weight: 700;
+    text-transform: uppercase;
+    color: $brand-purple;
+  }
+  ul.menu {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    li {
+      border-bottom: 1px solid rgba(0,0,0,0.15);
+      margin-bottom: 10px;
+      &:last-child {
+        border: 0;
+      }
+      a {
+        color: #000;
+        display: block;
+        line-height: 40px;
+        &:hover, &:focus {
+          color: $brand-green;
+        }
+      }
+    }
+  }
+}
+
+.footer-phone-email {
+  img {
+    margin-right: 5px;
+  }
+}
+
+@include media-breakpoint-up(sm) {
+
+}
+
+@include media-breakpoint-up(md) {
+
+}
+
+@include media-breakpoint-up(lg) {
+  .footer-top {
+    padding: 110px 0;
+  }
+}
+
+@include media-breakpoint-up(xl) {
+
+}

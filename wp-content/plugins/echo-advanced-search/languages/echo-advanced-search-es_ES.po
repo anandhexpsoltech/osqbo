@@ -1,0 +1,651 @@
+# Copyright (C) 2020 Echo Plugins
+# This file is distributed under the same license as the KB - Advanced Search plugin.
+msgid ""
+msgstr ""
+"Project-Id-Version: KB - Advanced Search 2.8.4\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/echo-advanced-"
+"search\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2020-04-30T21:02:16+02:00\n"
+"PO-Revision-Date: 2020-05-02 16:00+0200\n"
+"X-Generator: Poedit 2.2.3\n"
+"X-Domain: echo-advanced-search\n"
+"Last-Translator: \n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: es_ES\n"
+
+#. Plugin Name of the plugin
+msgid "KB - Advanced Search"
+msgstr "BC: Búsqueda avanzada"
+
+#. Plugin URI of the plugin
+msgid "https://www.echoknowledgebase.com/wordpress-add-ons/"
+msgstr "https://www.echoknowledgebase.com/wordpress-add-ons/"
+
+#. Description of the plugin
+msgid "Search you Knowledge Base using advanced search features."
+msgstr ""
+"Busca en tu base de conocimiento mediante las funciones de búsqueda "
+"avanzada."
+
+#. Author of the plugin
+msgid "Echo Plugins"
+msgstr "Echo Plugins"
+
+#. Author URI of the plugin
+msgid "https://www.echoknowledgebase.com"
+msgstr "https://www.echoknowledgebase.com"
+
+#: includes/admin/kb-configuration/class-asea-kb-config-specs.php:133
+#: includes/admin/kb-configuration/class-asea-kb-config-specs.php:832
+msgid "Text"
+msgstr "Texto"
+
+#: includes/admin/kb-configuration/class-asea-kb-config-specs.php:142
+#: includes/admin/kb-configuration/class-asea-kb-config-specs.php:841
+msgid "Title Text Shadow"
+msgstr "Sombra de texto del título"
+
+#: includes/admin/kb-configuration/class-asea-kb-config-specs.php:151
+#: includes/admin/kb-configuration/class-asea-kb-config-specs.php:850
+msgid "Description Below Title Text Shadow"
+msgstr "Descripción debajo de la sombra de texto del título"
+
+#: includes/admin/kb-configuration/class-asea-kb-config-specs.php:160
+#: includes/admin/kb-configuration/class-asea-kb-config-specs.php:859
+msgid "Links"
+msgstr "Enlaces"
+
+#: includes/admin/kb-configuration/class-asea-kb-config-specs.php:169
+#: includes/admin/kb-configuration/class-asea-kb-config-specs.php:868
+msgid "Search Background"
+msgstr "Buscar fondo"
+
+#: includes/admin/kb-configuration/class-asea-kb-config-specs.php:178
+#: includes/admin/kb-configuration/class-asea-kb-config-specs.php:196
+#: includes/admin/kb-configuration/class-asea-kb-config-specs.php:877
+#: includes/admin/kb-configuration/class-asea-kb-config-specs.php:895
+msgid "Background"
+msgstr "Fondo"
+
+#: includes/admin/kb-configuration/class-asea-kb-config-specs.php:187
+#: includes/admin/kb-configuration/class-asea-kb-config-specs.php:205
+#: includes/admin/kb-configuration/class-asea-kb-config-specs.php:560
+#: includes/admin/kb-configuration/class-asea-kb-config-specs.php:886
+#: includes/admin/kb-configuration/class-asea-kb-config-specs.php:904
+#: includes/admin/kb-configuration/class-asea-kb-config-specs.php:1274
+msgid "Border"
+msgstr "Borde"
+
+#: includes/admin/kb-configuration/class-asea-kb-config-specs.php:214
+#: includes/admin/kb-configuration/class-asea-kb-config-specs.php:913
+msgid "FROM:"
+msgstr "DESDE:"
+
+#: includes/admin/kb-configuration/class-asea-kb-config-specs.php:223
+#: includes/admin/kb-configuration/class-asea-kb-config-specs.php:922
+msgid "TO:"
+msgstr "HASTA:"
+
+#: includes/admin/kb-configuration/class-asea-kb-config-specs.php:232
+#: includes/admin/kb-configuration/class-asea-kb-config-specs.php:932
+msgid "Filter Box Text"
+msgstr "Texto del cuadro de filtro"
+
+#: includes/admin/kb-configuration/class-asea-kb-config-specs.php:241
+#: includes/admin/kb-configuration/class-asea-kb-config-specs.php:941
+msgid "Filter Box Background"
+msgstr "Fondo del cuadro de filtro"
+
+#: includes/admin/kb-configuration/class-asea-kb-config-specs.php:250
+msgid "Category text Color in search result"
+msgstr "Color texto categorías en búsqueda de resultado"
+
+#: includes/admin/kb-configuration/class-asea-kb-config-specs.php:259
+#: includes/admin/kb-configuration/class-asea-kb-config-specs.php:961
+msgid "Layout"
+msgstr "Diseño"
+
+#: includes/admin/kb-configuration/class-asea-kb-config-specs.php:270
+#: includes/admin/kb-configuration/class-asea-kb-config-specs.php:972
+msgid "Auto-complete Waiting Time [ms]"
+msgstr "Tiempo de espera autocompletado [ms]"
+
+#: includes/admin/kb-configuration/class-asea-kb-config-specs.php:278
+#: includes/admin/kb-configuration/class-asea-kb-config-specs.php:980
+msgid "Size of Search Results List"
+msgstr "Tamaño lista resultados de búsqueda"
+
+#: includes/admin/kb-configuration/class-asea-kb-config-specs.php:286
+#: includes/admin/kb-configuration/class-asea-kb-config-specs.php:988
+msgid "Size of Search Results Page"
+msgstr "Tamaño página resultados de búsqueda"
+
+#: includes/admin/kb-configuration/class-asea-kb-config-specs.php:294
+msgid "Show Category for Each Result"
+msgstr "Mostrar categoría para cada resultado"
+
+#: includes/admin/kb-configuration/class-asea-kb-config-specs.php:300
+#: includes/admin/kb-configuration/class-asea-kb-config-specs.php:1004
+#: includes/admin/wizard/class-asea-kb-wizard-search.php:173
+#: includes/admin/wizard/class-asea-kb-wizard-search.php:820
+msgid "Search Title"
+msgstr "Título de búsqueda"
+
+#: includes/admin/kb-configuration/class-asea-kb-config-specs.php:307
+#: includes/admin/kb-configuration/class-asea-kb-config-specs.php:1011
+msgid "How Can We Help?"
+msgstr "¿En qué podemos ayudarte?"
+
+#: includes/admin/kb-configuration/class-asea-kb-config-specs.php:310
+#: includes/admin/kb-configuration/class-asea-kb-config-specs.php:1014
+msgid "Description Under Title"
+msgstr "Descripción debajo del título"
+
+#: includes/admin/kb-configuration/class-asea-kb-config-specs.php:317
+#: includes/admin/kb-configuration/class-asea-kb-config-specs.php:327
+#: includes/admin/kb-configuration/class-asea-kb-config-specs.php:737
+#: includes/admin/kb-configuration/class-asea-kb-config-specs.php:769
+#: includes/admin/kb-configuration/class-asea-kb-config-specs.php:1021
+#: includes/admin/kb-configuration/class-asea-kb-config-specs.php:1031
+#: includes/admin/kb-configuration/class-asea-kb-config-specs.php:1460
+#: includes/admin/kb-configuration/class-asea-kb-config-specs.php:1494
+msgid " "
+msgstr " "
+
+#: includes/admin/kb-configuration/class-asea-kb-config-specs.php:320
+#: includes/admin/kb-configuration/class-asea-kb-config-specs.php:1024
+msgid "Description Under Search Input"
+msgstr "Descripción debajo de entrada de búsqueda"
+
+#: includes/admin/kb-configuration/class-asea-kb-config-specs.php:330
+#: includes/admin/kb-configuration/class-asea-kb-config-specs.php:1034
+msgid "Search Hint"
+msgstr "Sugerencia de búsqueda"
+
+#: includes/admin/kb-configuration/class-asea-kb-config-specs.php:336
+#: includes/admin/kb-configuration/class-asea-kb-config-specs.php:1040
+msgid "Search the documentation..."
+msgstr "Buscar la documentación..."
+
+#: includes/admin/kb-configuration/class-asea-kb-config-specs.php:339
+#: includes/admin/kb-configuration/class-asea-kb-config-specs.php:1043
+msgid "Search Button Name"
+msgstr "Nombre de botón de búsqueda"
+
+#: includes/admin/kb-configuration/class-asea-kb-config-specs.php:345
+#: includes/admin/kb-configuration/class-asea-kb-config-specs.php:1049
+msgid "Search"
+msgstr "Buscar"
+
+#: includes/admin/kb-configuration/class-asea-kb-config-specs.php:348
+#: includes/admin/kb-configuration/class-asea-kb-config-specs.php:1052
+msgid "Search Results Message"
+msgstr "Mensaje de resultados de búsqueda"
+
+#: includes/admin/kb-configuration/class-asea-kb-config-specs.php:354
+#: includes/admin/kb-configuration/class-asea-kb-config-specs.php:1058
+msgid "Search Results for"
+msgstr "Resultados de búsqueda para"
+
+#: includes/admin/kb-configuration/class-asea-kb-config-specs.php:357
+#: includes/admin/kb-configuration/class-asea-kb-config-specs.php:1061
+msgid "No Matches Found Text"
+msgstr "No se han encontrado coincidencias en el texto"
+
+#: includes/admin/kb-configuration/class-asea-kb-config-specs.php:363
+#: includes/admin/kb-configuration/class-asea-kb-config-specs.php:1067
+msgid "No matches found"
+msgstr "No se han encontrado coincidencias"
+
+#: includes/admin/kb-configuration/class-asea-kb-config-specs.php:366
+msgid "Found additional results"
+msgstr "Se han encontrado otros resultados"
+
+#: includes/admin/kb-configuration/class-asea-kb-config-specs.php:372
+#: includes/admin/kb-configuration/class-asea-kb-config-specs.php:1076
+msgid "All Search Results"
+msgstr "Todos los resultados de búsqueda"
+
+#: includes/admin/kb-configuration/class-asea-kb-config-specs.php:375
+msgid "Text for Filter indicator"
+msgstr "Texto para el indicador del filtro"
+
+#: includes/admin/kb-configuration/class-asea-kb-config-specs.php:385
+#: includes/admin/kb-configuration/class-asea-kb-config-specs.php:1089
+msgid "Label for category in search results"
+msgstr "Etiqueta para categoría en resultados de búsqueda"
+
+#: includes/admin/kb-configuration/class-asea-kb-config-specs.php:391
+#: includes/admin/kb-configuration/class-asea-kb-config-specs.php:1095
+msgid "Top Category:"
+msgstr "Categoría principal:"
+
+#: includes/admin/kb-configuration/class-asea-kb-config-specs.php:394
+#: includes/admin/kb-configuration/class-asea-kb-config-specs.php:426
+#: includes/admin/kb-configuration/class-asea-kb-config-specs.php:514
+#: includes/admin/kb-configuration/class-asea-kb-config-specs.php:633
+#: includes/admin/kb-configuration/class-asea-kb-config-specs.php:706
+#: includes/admin/kb-configuration/class-asea-kb-config-specs.php:1102
+#: includes/admin/kb-configuration/class-asea-kb-config-specs.php:1134
+#: includes/admin/kb-configuration/class-asea-kb-config-specs.php:1226
+#: includes/admin/kb-configuration/class-asea-kb-config-specs.php:1347
+#: includes/admin/kb-configuration/class-asea-kb-config-specs.php:1425
+msgid "Top"
+msgstr "Arriba"
+
+#: includes/admin/kb-configuration/class-asea-kb-config-specs.php:402
+#: includes/admin/kb-configuration/class-asea-kb-config-specs.php:434
+#: includes/admin/kb-configuration/class-asea-kb-config-specs.php:468
+#: includes/admin/kb-configuration/class-asea-kb-config-specs.php:522
+#: includes/admin/kb-configuration/class-asea-kb-config-specs.php:641
+#: includes/admin/kb-configuration/class-asea-kb-config-specs.php:714
+#: includes/admin/kb-configuration/class-asea-kb-config-specs.php:1110
+#: includes/admin/kb-configuration/class-asea-kb-config-specs.php:1142
+#: includes/admin/kb-configuration/class-asea-kb-config-specs.php:1178
+#: includes/admin/kb-configuration/class-asea-kb-config-specs.php:1234
+#: includes/admin/kb-configuration/class-asea-kb-config-specs.php:1355
+#: includes/admin/kb-configuration/class-asea-kb-config-specs.php:1433
+msgid "Bottom"
+msgstr "Abajo"
+
+#: includes/admin/kb-configuration/class-asea-kb-config-specs.php:410
+#: includes/admin/kb-configuration/class-asea-kb-config-specs.php:649
+#: includes/admin/kb-configuration/class-asea-kb-config-specs.php:1118
+#: includes/admin/kb-configuration/class-asea-kb-config-specs.php:1363
+msgid "Left"
+msgstr "Izquierda"
+
+#: includes/admin/kb-configuration/class-asea-kb-config-specs.php:418
+#: includes/admin/kb-configuration/class-asea-kb-config-specs.php:657
+#: includes/admin/kb-configuration/class-asea-kb-config-specs.php:1126
+#: includes/admin/kb-configuration/class-asea-kb-config-specs.php:1371
+msgid "Right"
+msgstr "Derecha"
+
+#: includes/admin/kb-configuration/class-asea-kb-config-specs.php:442
+#: includes/admin/kb-configuration/class-asea-kb-config-specs.php:1150
+msgid "Width of Text Above/Below Input ( % )"
+msgstr "Ancho del texto arriba/abajo de la entrada ( % )"
+
+#: includes/admin/kb-configuration/class-asea-kb-config-specs.php:450
+#: includes/admin/kb-configuration/class-asea-kb-config-specs.php:1160
+msgid "Title Font Size ( px )"
+msgstr "Tamaño de la fuente del título ( px )"
+
+#: includes/admin/kb-configuration/class-asea-kb-config-specs.php:458
+#: includes/admin/kb-configuration/class-asea-kb-config-specs.php:1168
+msgid "Title Font Weight"
+msgstr "Grosor de la fuente del título"
+
+#: includes/admin/kb-configuration/class-asea-kb-config-specs.php:476
+#: includes/admin/kb-configuration/class-asea-kb-config-specs.php:530
+#: includes/admin/kb-configuration/class-asea-kb-config-specs.php:601
+#: includes/admin/kb-configuration/class-asea-kb-config-specs.php:1186
+#: includes/admin/kb-configuration/class-asea-kb-config-specs.php:1242
+#: includes/admin/kb-configuration/class-asea-kb-config-specs.php:1315
+msgid "X Offset"
+msgstr "Desplazamiento X"
+
+#: includes/admin/kb-configuration/class-asea-kb-config-specs.php:484
+#: includes/admin/kb-configuration/class-asea-kb-config-specs.php:538
+#: includes/admin/kb-configuration/class-asea-kb-config-specs.php:609
+#: includes/admin/kb-configuration/class-asea-kb-config-specs.php:1194
+#: includes/admin/kb-configuration/class-asea-kb-config-specs.php:1250
+#: includes/admin/kb-configuration/class-asea-kb-config-specs.php:1323
+msgid "Y Offset"
+msgstr "Desplazamiento Y"
+
+#: includes/admin/kb-configuration/class-asea-kb-config-specs.php:492
+#: includes/admin/kb-configuration/class-asea-kb-config-specs.php:546
+#: includes/admin/kb-configuration/class-asea-kb-config-specs.php:617
+#: includes/admin/kb-configuration/class-asea-kb-config-specs.php:1202
+#: includes/admin/kb-configuration/class-asea-kb-config-specs.php:1258
+#: includes/admin/kb-configuration/class-asea-kb-config-specs.php:1331
+msgid "Blur"
+msgstr "Desenfoque"
+
+#: includes/admin/kb-configuration/class-asea-kb-config-specs.php:500
+#: includes/admin/kb-configuration/class-asea-kb-config-specs.php:554
+#: includes/admin/kb-configuration/class-asea-kb-config-specs.php:1210
+#: includes/admin/kb-configuration/class-asea-kb-config-specs.php:1266
+msgid "Turn on Text Shadow"
+msgstr "Habilitar sombra de texto"
+
+#: includes/admin/kb-configuration/class-asea-kb-config-specs.php:506
+#: includes/admin/kb-configuration/class-asea-kb-config-specs.php:698
+#: includes/admin/kb-configuration/class-asea-kb-config-specs.php:722
+#: includes/admin/kb-configuration/class-asea-kb-config-specs.php:1218
+#: includes/admin/kb-configuration/class-asea-kb-config-specs.php:1417
+#: includes/admin/kb-configuration/class-asea-kb-config-specs.php:1443
+msgid "Font Size ( px )"
+msgstr "Tamaño de la fuente ( px )"
+
+#: includes/admin/kb-configuration/class-asea-kb-config-specs.php:568
+#: includes/admin/kb-configuration/class-asea-kb-config-specs.php:1282
+msgid "Width (%)"
+msgstr "Ancho (%)"
+
+#: includes/admin/kb-configuration/class-asea-kb-config-specs.php:576
+#: includes/admin/kb-configuration/class-asea-kb-config-specs.php:1290
+msgid "Radius"
+msgstr "Radio"
+
+#: includes/admin/kb-configuration/class-asea-kb-config-specs.php:584
+#: includes/admin/kb-configuration/class-asea-kb-config-specs.php:1298
+msgid "Font Size"
+msgstr "Tamaño de la fuente"
+
+#: includes/admin/kb-configuration/class-asea-kb-config-specs.php:592
+#: includes/admin/kb-configuration/class-asea-kb-config-specs.php:1306
+msgid "Box Shadow Color : Example: 21, 21, 21, 0.15"
+msgstr "Color sombra del cuadro: Ejemplo: 21, 21, 21, 0.15"
+
+#: includes/admin/kb-configuration/class-asea-kb-config-specs.php:625
+#: includes/admin/kb-configuration/class-asea-kb-config-specs.php:1339
+msgid "Spread"
+msgstr "Extensión"
+
+#: includes/admin/kb-configuration/class-asea-kb-config-specs.php:665
+#: includes/admin/kb-configuration/class-asea-kb-config-specs.php:1379
+msgid "Search Results: Match Article Colors"
+msgstr "Resultados de búsqueda: Combinar con los colores del artículo"
+
+#: includes/admin/kb-configuration/class-asea-kb-config-specs.php:671
+#: includes/admin/kb-configuration/class-asea-kb-config-specs.php:1385
+msgid "Search Icon Placement"
+msgstr "Disposición icono de búsqueda"
+
+#: includes/admin/kb-configuration/class-asea-kb-config-specs.php:682
+#: includes/admin/kb-configuration/class-asea-kb-config-specs.php:1396
+msgid "Loading Icon Placement"
+msgstr "Cargando disposición de icono"
+
+#: includes/admin/kb-configuration/class-asea-kb-config-specs.php:692
+#: includes/admin/kb-configuration/class-asea-kb-config-specs.php:1409
+msgid "Search Filter"
+msgstr "Filtro de búsqueda"
+
+#: includes/admin/kb-configuration/class-asea-kb-config-specs.php:730
+#: includes/admin/kb-configuration/class-asea-kb-config-specs.php:1453
+msgid "Background Image URL"
+msgstr "URL de imagen de fondo"
+
+#: includes/admin/kb-configuration/class-asea-kb-config-specs.php:740
+#: includes/admin/kb-configuration/class-asea-kb-config-specs.php:1463
+msgid "Background Image Position X"
+msgstr "Posición X de imagen de fondo"
+
+#: includes/admin/kb-configuration/class-asea-kb-config-specs.php:751
+#: includes/admin/kb-configuration/class-asea-kb-config-specs.php:1474
+msgid "Background Image Position Y"
+msgstr "Posición Y de imagen de fondo"
+
+#: includes/admin/kb-configuration/class-asea-kb-config-specs.php:762
+#: includes/admin/kb-configuration/class-asea-kb-config-specs.php:1487
+msgid "Background Pattern Image URL"
+msgstr "URL de diseño de fondo"
+
+#: includes/admin/kb-configuration/class-asea-kb-config-specs.php:772
+#: includes/admin/kb-configuration/class-asea-kb-config-specs.php:1497
+msgid "Background Pattern Image Position X"
+msgstr "Posición X de diseño de fondo"
+
+#: includes/admin/kb-configuration/class-asea-kb-config-specs.php:783
+#: includes/admin/kb-configuration/class-asea-kb-config-specs.php:1508
+msgid "Background Pattern Image Position Y"
+msgstr "Posición Y de diseño de fondo"
+
+#: includes/admin/kb-configuration/class-asea-kb-config-specs.php:794
+#: includes/admin/kb-configuration/class-asea-kb-config-specs.php:1519
+msgid "Opacity of the Image"
+msgstr "Opacidad de la imagen"
+
+#: includes/admin/kb-configuration/class-asea-kb-config-specs.php:802
+#: includes/admin/kb-configuration/class-asea-kb-config-specs.php:1529
+msgid "Degree of the Gradient"
+msgstr "Grado del degradado"
+
+#: includes/admin/kb-configuration/class-asea-kb-config-specs.php:810
+#: includes/admin/kb-configuration/class-asea-kb-config-specs.php:1537
+msgid "Opacity of the Gradient"
+msgstr "Opacidad del degradado"
+
+#: includes/admin/kb-configuration/class-asea-kb-config-specs.php:818
+#: includes/admin/kb-configuration/class-asea-kb-config-specs.php:1545
+msgid "Turn on Gradient Background"
+msgstr "Habilitar degradado de fondo"
+
+#: includes/admin/kb-configuration/class-asea-kb-config-specs.php:950
+msgid "Category Color in search result"
+msgstr "Color de categoría en resultados de búsqueda"
+
+#: includes/admin/kb-configuration/class-asea-kb-config-specs.php:996
+msgid "Show Top Category"
+msgstr "Mostrar categoría principal"
+
+#: includes/admin/kb-configuration/class-asea-kb-config-specs.php:1070
+msgid "Found Additional Results"
+msgstr "Se han encontrado otros resultados"
+
+#: includes/admin/kb-configuration/class-asea-kb-config-specs.php:1079
+msgid "Filter box text"
+msgstr "Texto del cuadro de filtro"
+
+#: includes/admin/wizard/class-asea-kb-wizard-search.php:88
+#: includes/admin/wizard/class-asea-kb-wizard-search.php:730
+#: includes/admin/wizard/class-asea-kb-wizard-text.php:26
+#: includes/admin/wizard/class-asea-kb-wizard-text.php:101
+#: includes/admin/wizard/class-asea-kb-wizard.php:97
+#: includes/admin/wizard/class-asea-kb-wizard.php:281
+msgid "Advanced Search Box"
+msgstr "Cuadro de búsqueda avanzada"
+
+#: includes/admin/wizard/class-asea-kb-wizard-search.php:107
+#: includes/admin/wizard/class-asea-kb-wizard-search.php:265
+#: includes/admin/wizard/class-asea-kb-wizard-search.php:466
+#: includes/admin/wizard/class-asea-kb-wizard-search.php:754
+#: includes/admin/wizard/class-asea-kb-wizard-search.php:918
+#: includes/admin/wizard/class-asea-kb-wizard-search.php:1131
+msgid "Padding( px )"
+msgstr "Relleno( px )"
+
+#: includes/admin/wizard/class-asea-kb-wizard-search.php:117
+#: includes/admin/wizard/class-asea-kb-wizard-search.php:764
+msgid "Margin( px )"
+msgstr "Margen( px )"
+
+#: includes/admin/wizard/class-asea-kb-wizard-search.php:216
+#: includes/admin/wizard/class-asea-kb-wizard-search.php:275
+#: includes/admin/wizard/class-asea-kb-wizard-search.php:868
+#: includes/admin/wizard/class-asea-kb-wizard-search.php:928
+msgid "Text Shadow"
+msgstr "Sombra del texto"
+
+#: includes/admin/wizard/class-asea-kb-wizard-search.php:239
+#: includes/admin/wizard/class-asea-kb-wizard-search.php:891
+msgid "Description Below Search Title"
+msgstr "Descripción debajo del título de búsqueda"
+
+#: includes/admin/wizard/class-asea-kb-wizard-search.php:369
+#: includes/admin/wizard/class-asea-kb-wizard-search.php:1028
+msgid "Search Input"
+msgstr "Buscar entrada"
+
+#: includes/admin/wizard/class-asea-kb-wizard-search.php:379
+#: includes/admin/wizard/class-asea-kb-wizard-search.php:1043
+msgid "Search Box Input"
+msgstr "Entrada del cuadro de búsqueda"
+
+#: includes/admin/wizard/class-asea-kb-wizard-search.php:389
+#: includes/admin/wizard/class-asea-kb-wizard-search.php:1053
+msgid "Padding ( px )"
+msgstr "Relleno ( px )"
+
+#: includes/admin/wizard/class-asea-kb-wizard-search.php:399
+#: includes/admin/wizard/class-asea-kb-wizard-search.php:1063
+msgid "Box Shadow Position"
+msgstr "Posición de la sombra del cuadro"
+
+#: includes/admin/wizard/class-asea-kb-wizard-search.php:440
+#: includes/admin/wizard/class-asea-kb-wizard-search.php:1104
+msgid "Description Below Search Input"
+msgstr "Descripción debajo de entrada de búsqueda"
+
+#: includes/admin/wizard/class-asea-kb-wizard-search.php:475
+#: includes/admin/wizard/class-asea-kb-wizard-search.php:1140
+msgid "Search Results"
+msgstr "Resultados de búsqueda"
+
+#: includes/admin/wizard/class-asea-kb-wizard-search.php:550
+#: includes/admin/wizard/class-asea-kb-wizard-search.php:1221
+msgid "Background Image"
+msgstr "Imagen de fondo"
+
+#: includes/admin/wizard/class-asea-kb-wizard-search.php:591
+#: includes/admin/wizard/class-asea-kb-wizard-search.php:1267
+msgid "Background Pattern Image"
+msgstr "Diseño de fondo"
+
+#: includes/admin/wizard/class-asea-kb-wizard-search.php:642
+#: includes/admin/wizard/class-asea-kb-wizard-search.php:1323
+msgid "Background Gradient"
+msgstr "Degradado de fondo"
+
+#: includes/admin/wizard/class-asea-kb-wizard.php:92
+#: includes/admin/wizard/class-asea-kb-wizard.php:276
+msgid "Title Text"
+msgstr "Texto del título"
+
+#: includes/admin/wizard/class-asea-kb-wizard.php:93
+#: includes/admin/wizard/class-asea-kb-wizard.php:277
+msgid "Input Background"
+msgstr "Fondo de entrada de texto"
+
+#: includes/admin/wizard/class-asea-kb-wizard.php:94
+msgid "Input Border"
+msgstr "Borde de entrada de texto"
+
+#: includes/admin/wizard/class-asea-kb-wizard.php:161
+#: includes/admin/wizard/class-asea-kb-wizard.php:350
+msgid "Gradient background: From"
+msgstr "Degradado de fondo: Desde"
+
+#: includes/admin/wizard/class-asea-kb-wizard.php:172
+#: includes/admin/wizard/class-asea-kb-wizard.php:361
+msgid "Gradient background: To"
+msgstr "Degradado de fondo: Hasta"
+
+#: includes/admin/wizard/class-asea-kb-wizard.php:278
+msgid "Input Border Color"
+msgstr "Color del borde de entrada de texto"
+
+#: includes/features/analytics/class-asea-analytics-view.php:26
+msgid "Search Data"
+msgstr "Datos de búsqueda"
+
+#: includes/features/analytics/class-asea-analytics-view.php:218
+msgid "Delete Search Analytics"
+msgstr "Eliminar análisis de búsqueda"
+
+#: includes/features/analytics/class-asea-analytics-view.php:247
+#: includes/features/search/class-asea-search-box-cntrl.php:253
+msgid "First refresh your page"
+msgstr "Actualiza primero la página"
+
+#: includes/features/analytics/class-asea-analytics-view.php:252
+#: includes/features/search/class-asea-search-box-cntrl.php:258
+msgid "You do not have permission to edit this knowledge base"
+msgstr "No tienes permiso para editar esta base de conocimiento"
+
+#: includes/features/analytics/class-asea-analytics-view.php:264
+msgid "You are not logged in. Refresh your page and log in"
+msgstr "No estás conectado. Actualiza la página e inicia sesión"
+
+#: includes/features/analytics/class-asea-analytics-view.php:264
+msgid "Cannot save your changes"
+msgstr "No se han podido guardar los cambios"
+
+#: includes/features/analytics/class-asea-analytics-view.php:330
+#: includes/features/search/class-asea-search-box-cntrl.php:222
+#: templates/search-results.php:20
+msgctxt "used when searching"
+msgid "kb-search"
+msgstr "búsqueda-bc"
+
+#: includes/features/search/class-asea-search-box-cntrl.php:25
+msgid "Error occurred. Please try again later."
+msgstr "Ha ocurrido un error. Inténtalo de nuevo más tarde."
+
+#: includes/features/search/class-asea-search-box-cntrl.php:31
+msgid "Error occurred (x4). Please try again later."
+msgstr "Ha ocurrido un error (x4). Inténtalo de nuevo más tarde."
+
+#: includes/features/search/class-asea-search-box-cntrl.php:85
+#: templates/search-results.php:36
+msgid "Error occurred (532)."
+msgstr "Ha ocurrido un error (532)."
+
+#: includes/features/search/class-asea-search-box-cntrl.php:221
+#: templates/search-results.php:180
+msgid "category"
+msgstr "categoría"
+
+#: includes/features/search/class-asea-search-box-cntrl.php:263
+msgid "Missing KB ID"
+msgstr "Falta ID de BC"
+
+#: includes/features/search/class-asea-search-box-cntrl.php:269
+msgid "Advanced Search statistics was deleted"
+msgstr "Las estadísticas de la búsqueda avanzada han sido eliminadas"
+
+#: includes/features/search/class-asea-search-box-view.php:353
+msgid "Filter by Categories"
+msgstr "Filtrar por categorías"
+
+#: includes/features/search/class-asea-search-box-view.php:354
+msgid "Clear Results"
+msgstr "Limpiar resultados"
+
+#: includes/system/class-asea-templates.php:58
+msgctxt "search query parameter in URL"
+msgid "search"
+msgstr "buscar"
+
+#: includes/system/class-asea-templates.php:59
+msgctxt "search query parameter in URL"
+msgid "kb-search"
+msgstr "búsqueda-bc"
+
+#: includes/system/class-asea-upgrades.php:93
+msgid "Advanced Search"
+msgstr "Búsqueda avanzada"
+
+#: templates/search-results.php:19
+msgctxt "used when searching"
+msgid "search"
+msgstr "buscar"
+
+#: templates/search-results.php:23 templates/search-results.php:184
+#: templates/search-results.php:189
+msgid "pg"
+msgstr "pág."
+
+#: templates/search-results.php:168
+msgid "Read More"
+msgstr "Saber más"
+
+#: templates/search-results.php:184 templates/search-results.php:189
+msgid "kb-search"
+msgstr "búsqueda-bc"
+
+#: templates/search-results.php:184
+msgid "Previous Page"
+msgstr "Página anterior"
+
+#: templates/search-results.php:189
+msgid "Next Page"
+msgstr "Página siguiente"

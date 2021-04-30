@@ -1,0 +1,244 @@
+0000.000 (0) Opened log file at time: Fri, 21 Jun 2019 12:52:13 +0000 on http://www.onesourcesoftware.com
+0000.003 (0) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.16.15 WP: 4.8.9 PHP: 5.4.45 (litespeed, Linux a2plcpnl0424.prod.iad2.secureserver.net 2.6.32-896.16.1.lve1.4.54.el6.x86_64 #1 SMP Wed May 2 07:43:19 EDT 2018 x86_64) MySQL: 5.6.43-cll-lve WPLANG: en_US Server: Apache safe_mode: 0 max_execution_time: 900 memory_limit: 256M (used: 48.1M | 48.3M) multisite: N openssl: OpenSSL 1.0.2k-fips  26 Jan 2017 mcrypt: Y LANG:  ZipArchive::addFile: N
+0000.073 (0) Free space on disk containing Updraft's temporary directory: 1225719.3 MB
+0000.077 (0) Tasks: Backup files: 1 (schedule: unset) Backup DB: 1 (schedule: unset)
+0000.080 (0) Semaphore (fd, kps_options) being initialised
+0000.083 (0) Requesting semaphore lock (fd) (apparently not via scheduler)
+0000.087 (0) Set semaphore last lock (fd) time to 2019-06-21 12:52:13
+0000.088 (0) Semaphore lock (fd) complete
+0000.093 (0) Backup run: resumption=0, nonce=9c1b82dca4a2, file_nonce=9c1b82dca4a2 begun at=1561121533 (0s ago), job type=backup
+0000.095 (0) Scheduling a resumption (1) after 300 seconds (1561121833) in case this run gets aborted
+0000.108 (0) Checking if we have a zip executable available
+0000.110 (0) Testing: /usr/bin/zip
+0000.120 (0) Output: zip warning: binziptest/test.zip not found or empty
+0000.122 (0) Output: adding: binziptest/subdir1/	(in=0) (out=0) (stored 0%)
+0000.123 (0) Output: adding: binziptest/subdir1/subdir2/	(in=0) (out=0) (stored 0%)
+0000.124 (0) Output: adding: binziptest/subdir1/subdir2/test.html	(in=131) (out=107) (deflated 18%)
+0000.125 (0) Output: total bytes=131, compressed=107 -> 18% savings
+0000.135 (0) Output: adding: binziptest/subdir1/subdir2/test2.html	(in=138) (out=113) (deflated 18%)
+0000.137 (0) Output: total bytes=269, compressed=220 -> 18% savings
+0000.146 (0) Working binary zip found: /usr/bin/zip
+0000.148 (0) Zip engine: found/will use a binary zip: /usr/bin/zip
+0000.149 (0) Creation of backups of directories: beginning
+0000.152 (0) Beginning creation of dump of plugins (split every: 400 MB)
+0000.844 (0) Total entities for the zip file: 652 directories, 3914 files (0 skipped as non-modified), 61.7 MB
+0000.858 (0) Zip: backup_2019-06-21-1252_OneSource_Software_9c1b82dca4a2-plugins.zip.tmp: 100 files added (on-disk size: 0 KB)
+0000.871 (0) Zip: backup_2019-06-21-1252_OneSource_Software_9c1b82dca4a2-plugins.zip.tmp: 200 files added (on-disk size: 0 KB)
+0000.883 (0) Zip: backup_2019-06-21-1252_OneSource_Software_9c1b82dca4a2-plugins.zip.tmp: 300 files added (on-disk size: 0 KB)
+0000.896 (0) Zip: backup_2019-06-21-1252_OneSource_Software_9c1b82dca4a2-plugins.zip.tmp: 400 files added (on-disk size: 0 KB)
+0000.908 (0) Zip: backup_2019-06-21-1252_OneSource_Software_9c1b82dca4a2-plugins.zip.tmp: 500 files added (on-disk size: 0 KB)
+0000.911 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 500 files added on this batch (1.9 MB, 3914 files batched, 501 (501) added so far); re-opening (prior size: 0 KB)
+0003.279 (0) backup_2019-06-21-1252_OneSource_Software_9c1b82dca4a2-plugins.zip.tmp: size is now: 0.80 MB
+0003.292 (0) Zip: backup_2019-06-21-1252_OneSource_Software_9c1b82dca4a2-plugins.zip.tmp: 600 files added (on-disk size: 849.4 KB)
+0003.303 (0) Zip: backup_2019-06-21-1252_OneSource_Software_9c1b82dca4a2-plugins.zip.tmp: 700 files added (on-disk size: 849.4 KB)
+0003.313 (0) Zip: backup_2019-06-21-1252_OneSource_Software_9c1b82dca4a2-plugins.zip.tmp: 800 files added (on-disk size: 849.4 KB)
+0003.323 (0) Zip: backup_2019-06-21-1252_OneSource_Software_9c1b82dca4a2-plugins.zip.tmp: 900 files added (on-disk size: 849.4 KB)
+0003.333 (0) Zip: backup_2019-06-21-1252_OneSource_Software_9c1b82dca4a2-plugins.zip.tmp: 1000 files added (on-disk size: 849.4 KB)
+0003.335 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 500 files added on this batch (6.6 MB, 3914 files batched, 501 (1002) added so far); re-opening (prior size: 849.4 KB)
+0011.002 (0) backup_2019-06-21-1252_OneSource_Software_9c1b82dca4a2-plugins.zip.tmp: size is now: 3.20 MB
+0011.016 (0) Zip: backup_2019-06-21-1252_OneSource_Software_9c1b82dca4a2-plugins.zip.tmp: 1100 files added (on-disk size: 3231.4 KB)
+0011.028 (0) Zip: backup_2019-06-21-1252_OneSource_Software_9c1b82dca4a2-plugins.zip.tmp: 1200 files added (on-disk size: 3231.4 KB)
+0011.036 (0) Zip: backup_2019-06-21-1252_OneSource_Software_9c1b82dca4a2-plugins.zip.tmp: 1300 files added (on-disk size: 3231.4 KB)
+0011.042 (0) Zip: backup_2019-06-21-1252_OneSource_Software_9c1b82dca4a2-plugins.zip.tmp: 1400 files added (on-disk size: 3231.4 KB)
+0011.049 (0) Zip: backup_2019-06-21-1252_OneSource_Software_9c1b82dca4a2-plugins.zip.tmp: 1500 files added (on-disk size: 3231.4 KB)
+0011.050 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 500 files added on this batch (11.4 MB, 3914 files batched, 501 (1503) added so far); re-opening (prior size: 3231.4 KB)
+0026.726 (0) backup_2019-06-21-1252_OneSource_Software_9c1b82dca4a2-plugins.zip.tmp: size is now: 6.90 MB
+0026.736 (0) Zip: backup_2019-06-21-1252_OneSource_Software_9c1b82dca4a2-plugins.zip.tmp: 1600 files added (on-disk size: 7074.9 KB)
+0026.743 (0) Zip: backup_2019-06-21-1252_OneSource_Software_9c1b82dca4a2-plugins.zip.tmp: 1700 files added (on-disk size: 7074.9 KB)
+0026.750 (0) Zip: backup_2019-06-21-1252_OneSource_Software_9c1b82dca4a2-plugins.zip.tmp: 1800 files added (on-disk size: 7074.9 KB)
+0026.756 (0) Zip: backup_2019-06-21-1252_OneSource_Software_9c1b82dca4a2-plugins.zip.tmp: 1900 files added (on-disk size: 7074.9 KB)
+0026.763 (0) Zip: backup_2019-06-21-1252_OneSource_Software_9c1b82dca4a2-plugins.zip.tmp: 2000 files added (on-disk size: 7074.9 KB)
+0026.764 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 500 files added on this batch (6.2 MB, 3914 files batched, 501 (2004) added so far); re-opening (prior size: 7074.9 KB)
+0041.673 (0) backup_2019-06-21-1252_OneSource_Software_9c1b82dca4a2-plugins.zip.tmp: size is now: 9.00 MB
+0041.685 (0) Zip: backup_2019-06-21-1252_OneSource_Software_9c1b82dca4a2-plugins.zip.tmp: 2100 files added (on-disk size: 9265.4 KB)
+0041.695 (0) Zip: backup_2019-06-21-1252_OneSource_Software_9c1b82dca4a2-plugins.zip.tmp: 2200 files added (on-disk size: 9265.4 KB)
+0041.703 (0) Zip: backup_2019-06-21-1252_OneSource_Software_9c1b82dca4a2-plugins.zip.tmp: 2300 files added (on-disk size: 9265.4 KB)
+0041.710 (0) Zip: backup_2019-06-21-1252_OneSource_Software_9c1b82dca4a2-plugins.zip.tmp: 2400 files added (on-disk size: 9265.4 KB)
+0041.716 (0) Zip: backup_2019-06-21-1252_OneSource_Software_9c1b82dca4a2-plugins.zip.tmp: 2500 files added (on-disk size: 9265.4 KB)
+0041.717 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 500 files added on this batch (14 MB, 3914 files batched, 501 (2505) added so far); re-opening (prior size: 9265.4 KB)
+0056.655 (0) backup_2019-06-21-1252_OneSource_Software_9c1b82dca4a2-plugins.zip.tmp: size is now: 13.80 MB
+0056.665 (0) Zip: backup_2019-06-21-1252_OneSource_Software_9c1b82dca4a2-plugins.zip.tmp: 2600 files added (on-disk size: 14105.7 KB)
+0056.674 (0) Zip: backup_2019-06-21-1252_OneSource_Software_9c1b82dca4a2-plugins.zip.tmp: 2700 files added (on-disk size: 14105.7 KB)
+0056.681 (0) Zip: backup_2019-06-21-1252_OneSource_Software_9c1b82dca4a2-plugins.zip.tmp: 2800 files added (on-disk size: 14105.7 KB)
+0056.688 (0) Zip: backup_2019-06-21-1252_OneSource_Software_9c1b82dca4a2-plugins.zip.tmp: 2900 files added (on-disk size: 14105.7 KB)
+0056.696 (0) Zip: backup_2019-06-21-1252_OneSource_Software_9c1b82dca4a2-plugins.zip.tmp: 3000 files added (on-disk size: 14105.7 KB)
+0056.697 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 500 files added on this batch (14.9 MB, 3914 files batched, 501 (3006) added so far); re-opening (prior size: 14105.7 KB)
+0072.677 (0) backup_2019-06-21-1252_OneSource_Software_9c1b82dca4a2-plugins.zip.tmp: size is now: 18.00 MB
+0072.687 (0) Zip: backup_2019-06-21-1252_OneSource_Software_9c1b82dca4a2-plugins.zip.tmp: 3100 files added (on-disk size: 18419.6 KB)
+0072.694 (0) Zip: backup_2019-06-21-1252_OneSource_Software_9c1b82dca4a2-plugins.zip.tmp: 3200 files added (on-disk size: 18419.6 KB)
+0072.700 (0) Zip: backup_2019-06-21-1252_OneSource_Software_9c1b82dca4a2-plugins.zip.tmp: 3300 files added (on-disk size: 18419.6 KB)
+0072.707 (0) Zip: backup_2019-06-21-1252_OneSource_Software_9c1b82dca4a2-plugins.zip.tmp: 3400 files added (on-disk size: 18419.6 KB)
+0072.714 (0) Zip: backup_2019-06-21-1252_OneSource_Software_9c1b82dca4a2-plugins.zip.tmp: 3500 files added (on-disk size: 18419.6 KB)
+0072.715 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 500 files added on this batch (1.9 MB, 3914 files batched, 501 (3507) added so far); re-opening (prior size: 18419.6 KB)
+0078.618 (0) Zip: backup_2019-06-21-1252_OneSource_Software_9c1b82dca4a2-plugins.zip.tmp: 3600 files added (on-disk size: 19161.8 KB)
+0078.625 (0) Zip: backup_2019-06-21-1252_OneSource_Software_9c1b82dca4a2-plugins.zip.tmp: 3700 files added (on-disk size: 19161.8 KB)
+0078.632 (0) Zip: backup_2019-06-21-1252_OneSource_Software_9c1b82dca4a2-plugins.zip.tmp: 3800 files added (on-disk size: 19161.8 KB)
+0078.638 (0) Zip: backup_2019-06-21-1252_OneSource_Software_9c1b82dca4a2-plugins.zip.tmp: 3900 files added (on-disk size: 19161.8 KB)
+0082.777 (0) Created plugins zip (0) - 21025.3 KB in 82.6 s (254.7 KB/s) (sha1: 76772b9253560b1af01081de68ef07ea2292aa3b, sha256: 0826b085554f9b0ab4867d818015dffc7e821f4e6705f5ae3d1bc3347762b4d7)
+0082.781 (0) Beginning creation of dump of themes (split every: 400 MB)
+0083.038 (0) Total entities for the zip file: 123 directories, 745 files (0 skipped as non-modified), 12.3 MB
+0083.048 (0) Zip: backup_2019-06-21-1252_OneSource_Software_9c1b82dca4a2-themes.zip.tmp: 100 files added (on-disk size: 0 KB)
+0083.055 (0) Zip: backup_2019-06-21-1252_OneSource_Software_9c1b82dca4a2-themes.zip.tmp: 200 files added (on-disk size: 0 KB)
+0083.061 (0) Zip: backup_2019-06-21-1252_OneSource_Software_9c1b82dca4a2-themes.zip.tmp: 300 files added (on-disk size: 0 KB)
+0083.068 (0) Zip: backup_2019-06-21-1252_OneSource_Software_9c1b82dca4a2-themes.zip.tmp: 400 files added (on-disk size: 0 KB)
+0083.074 (0) Zip: backup_2019-06-21-1252_OneSource_Software_9c1b82dca4a2-themes.zip.tmp: 500 files added (on-disk size: 0 KB)
+0083.075 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 500 files added on this batch (10.4 MB, 745 files batched, 501 (501) added so far); re-opening (prior size: 0 KB)
+0087.702 (0) backup_2019-06-21-1252_OneSource_Software_9c1b82dca4a2-themes.zip.tmp: size is now: 6.10 MB
+0087.711 (0) Zip: backup_2019-06-21-1252_OneSource_Software_9c1b82dca4a2-themes.zip.tmp: 600 files added (on-disk size: 6275.4 KB)
+0087.718 (0) Zip: backup_2019-06-21-1252_OneSource_Software_9c1b82dca4a2-themes.zip.tmp: 700 files added (on-disk size: 6275.4 KB)
+0096.376 (0) Created themes zip (0) - 6936.5 KB in 13.5 s (513 KB/s) (sha1: d41c5e098d790bdad02317d2ffb8d2285a1d6a27, sha256: 43a49d42e8f4948e56fd78bf4daeb06b2a5fcd6873aae576ba05d82896123b5b)
+0096.381 (0) Exclusion option setting (uploads): backup*,*backups,backwpup*,wp-clone,snapshots
+0096.383 (0) Looking for candidates to backup in: /home/schilds7/public_html/wp-content/uploads
+0096.384 (0) finding files: 2018: adding to list (1)
+0096.385 (0) finding files: gravity_forms: adding to list (2)
+0096.386 (0) finding files: 2017: adding to list (3)
+0096.387 (0) finding files: 2019: adding to list (4)
+0096.388 (0) Beginning creation of dump of uploads (split every: 400 MB)
+0096.622 (0) Total entities for the zip file: 32 directories, 279 files (0 skipped as non-modified), 9.5 MB
+0096.629 (0) Zip: backup_2019-06-21-1252_OneSource_Software_9c1b82dca4a2-uploads.zip.tmp: 100 files added (on-disk size: 0 KB)
+0096.635 (0) Zip: backup_2019-06-21-1252_OneSource_Software_9c1b82dca4a2-uploads.zip.tmp: 200 files added (on-disk size: 0 KB)
+0108.252 (0) backup_2019-06-21-1252_OneSource_Software_9c1b82dca4a2-uploads.zip.tmp: size is now: 9.50 MB
+0108.401 (0) Created uploads zip (0) - 9736.1 KB in 11.9 s (815.2 KB/s) (sha1: ecb0de4032a77b06a4ca0ef367f461e555c408d5, sha256: 3a783f2841ae135d3d0f1db32800620d5d16f477abc364dafe03688a038577e6)
+0108.405 (0) Beginning backup of other directories found in the content directory (index: 0)
+0108.406 (0) Exclusion option setting (others): upgrade,cache,updraft,backup*,*backups,mysql.sql,debug.log
+0108.407 (0) Looking for candidates to backup in: /home/schilds7/public_html/wp-content
+0108.408 (0) finding files: upgrade: skipping: excluded by options
+0108.409 (0) finding files: plugins: skipping: this is the plugins directory
+0108.410 (0) finding files: uploads: skipping: this is the uploads directory
+0108.411 (0) finding files: updraft: skipping: this is the updraft directory
+0108.412 (0) finding files: index.php: adding to list (1)
+0108.413 (0) finding files: themes: skipping: this is the themes directory
+0108.484 (0) Total entities for the zip file: 0 directories, 1 files (0 skipped as non-modified), 0 MB
+0108.505 (0) backup_2019-06-21-1252_OneSource_Software_9c1b82dca4a2-others.zip.tmp: size is now: 0.00 MB
+0108.511 (0) Created others zip (0) - 0.2 KB in 0 s (6.4 KB/s) (sha1: 738507e1a2a90b3e9f741a959af5ee77e55ccc4c, sha256: 1b49aa38c9352d4e8d9b3df4aef56ac1bcdb2f581c7cdf021bb5e62aa3412912)
+0108.524 (0) Saving backup status to database (elements: 8)
+0108.527 (0) Beginning creation of database dump (WordPress DB)
+0108.530 (0) Testing potential mysqldump binary: /usr/bin/mysqldump
+0108.685 (0) Output: /*!40103 SET @OLD_TIME_ZONE=@@TIME_ZONE */;\n/*!40103 SET TIME_ZONE='+00:00' */;\n/*!40014 SET @OLD_UNIQUE_CHECKS=@@UNIQUE_CHECKS, UNIQUE_CHECKS=0 */;\n/*!40014 SET @OLD_FOREIGN_KEY_CHECKS=@@FOREIGN_KEY_CHECKS, FOREIGN_KEY_CHECKS=0 */;\n/*!40101 SET @OLD_SQL_MODE=@@SQL_MODE, SQL_MODE='NO_AUTO_VALUE_ON_ZERO' */;\n/*!40111 SET @OLD_SQL_NOTES=@@SQL_NOTES, SQL_NOTES=0 */;\nDROP TABLE IF EXISTS `kps_options`;\n/*!40101 SET @saved_cs_client     = @@character_set_client */;\n/*!40101 SET character_set_client = utf8 */;\nCR (truncated - 1224 bytes total)
+0108.691 (0) Working binary mysqldump found: /usr/bin/mysqldump
+0108.700 (0) Table kps_options: Total expected rows (approximate): 342
+0108.760 (0) Table kps_options: Total rows added: 346 in 0.06 seconds
+0108.762 (0) Table kps_options: finishing file (backup_2019-06-21-1252_OneSource_Software_9c1b82dca4a2-db-table-kps_options.table.gz - 248.9 KB)
+0108.767 (0) Table kps_users: Total expected rows (approximate): 6
+0108.771 (0) Table kps_users: Total rows added: 5 in 0.00 seconds
+0108.772 (0) Table kps_users: finishing file (backup_2019-06-21-1252_OneSource_Software_9c1b82dca4a2-db-table-kps_users.table.gz - 0.9 KB)
+0108.778 (0) Table kps_usermeta: Total expected rows (approximate): 110
+0108.784 (0) Table kps_usermeta: Total rows added: 110 in 0.01 seconds
+0108.785 (0) Table kps_usermeta: finishing file (backup_2019-06-21-1252_OneSource_Software_9c1b82dca4a2-db-table-kps_usermeta.table.gz - 2.6 KB)
+0108.790 (0) Table kps_commentmeta: Total expected rows (approximate): 0
+0108.793 (0) Table kps_commentmeta: Total rows added: 0 in 0.00 seconds
+0108.794 (0) Table kps_commentmeta: finishing file (backup_2019-06-21-1252_OneSource_Software_9c1b82dca4a2-db-table-kps_commentmeta.table.gz - 0.4 KB)
+0108.799 (0) Table kps_comments: Total expected rows (approximate): 7
+0108.803 (0) Table kps_comments: Total rows added: 11 in 0.00 seconds
+0108.805 (0) Table kps_comments: finishing file (backup_2019-06-21-1252_OneSource_Software_9c1b82dca4a2-db-table-kps_comments.table.gz - 2 KB)
+0108.810 (0) Table kps_links: Total expected rows (approximate): 0
+0108.813 (0) Table kps_links: Total rows added: 0 in 0.00 seconds
+0108.814 (0) Table kps_links: finishing file (backup_2019-06-21-1252_OneSource_Software_9c1b82dca4a2-db-table-kps_links.table.gz - 0.4 KB)
+0108.819 (0) Table kps_postmeta: Total expected rows (approximate): 52728
+0109.103 (0) Table kps_postmeta: binary mysqldump finished (writes: 35) in 0.28 seconds
+0109.110 (0) Table kps_postmeta: finishing file (backup_2019-06-21-1252_OneSource_Software_9c1b82dca4a2-db-table-kps_postmeta.table.gz - 429.5 KB)
+0109.116 (0) Table kps_posts: Total expected rows (approximate): 487
+0109.195 (0) Table kps_posts: Total rows added: 579 in 0.08 seconds
+0109.197 (0) Table kps_posts: finishing file (backup_2019-06-21-1252_OneSource_Software_9c1b82dca4a2-db-table-kps_posts.table.gz - 22 KB)
+0109.202 (0) Table kps_term_relationships: Total expected rows (approximate): 34
+0109.206 (0) Table kps_term_relationships: Total rows added: 34 in 0.00 seconds
+0109.207 (0) Table kps_term_relationships: finishing file (backup_2019-06-21-1252_OneSource_Software_9c1b82dca4a2-db-table-kps_term_relationships.table.gz - 0.5 KB)
+0109.211 (0) Table kps_term_taxonomy: Total expected rows (approximate): 11
+0109.215 (0) Table kps_term_taxonomy: Total rows added: 11 in 0.00 seconds
+0109.216 (0) Table kps_term_taxonomy: finishing file (backup_2019-06-21-1252_OneSource_Software_9c1b82dca4a2-db-table-kps_term_taxonomy.table.gz - 0.5 KB)
+0109.221 (0) Table kps_termmeta: Total expected rows (approximate): 0
+0109.223 (0) Table kps_termmeta: Total rows added: 0 in 0.00 seconds
+0109.224 (0) Table kps_termmeta: finishing file (backup_2019-06-21-1252_OneSource_Software_9c1b82dca4a2-db-table-kps_termmeta.table.gz - 0.4 KB)
+0109.228 (0) Table kps_terms: Total expected rows (approximate): 11
+0109.232 (0) Table kps_terms: Total rows added: 11 in 0.00 seconds
+0109.233 (0) Table kps_terms: finishing file (backup_2019-06-21-1252_OneSource_Software_9c1b82dca4a2-db-table-kps_terms.table.gz - 0.5 KB)
+0109.239 (0) Table kps_new_royalsliders: Total expected rows (approximate): 6
+0109.243 (0) Table kps_new_royalsliders: Total rows added: 6 in 0.00 seconds
+0109.244 (0) Table kps_new_royalsliders: finishing file (backup_2019-06-21-1252_OneSource_Software_9c1b82dca4a2-db-table-kps_new_royalsliders.table.gz - 1 KB)
+0109.256 (0) Table kps_rg_form: Total expected rows (approximate): 4
+0109.260 (0) Table kps_rg_form: Total rows added: 4 in 0.00 seconds
+0109.261 (0) Table kps_rg_form: finishing file (backup_2019-06-21-1252_OneSource_Software_9c1b82dca4a2-db-table-kps_rg_form.table.gz - 0.5 KB)
+0109.265 (0) Table kps_rg_form_meta: Total expected rows (approximate): 4
+0109.269 (0) Table kps_rg_form_meta: Total rows added: 4 in 0.00 seconds
+0109.270 (0) Table kps_rg_form_meta: finishing file (backup_2019-06-21-1252_OneSource_Software_9c1b82dca4a2-db-table-kps_rg_form_meta.table.gz - 2.1 KB)
+0109.275 (0) Table kps_rg_form_view: Total expected rows (approximate): 138
+0109.303 (0) Table kps_rg_form_view: Total rows added: 1203 in 0.03 seconds
+0109.305 (0) Table kps_rg_form_view: finishing file (backup_2019-06-21-1252_OneSource_Software_9c1b82dca4a2-db-table-kps_rg_form_view.table.gz - 12.8 KB)
+0109.311 (0) Table kps_rg_incomplete_submissions: Total expected rows (approximate): 0
+0109.314 (0) Table kps_rg_incomplete_submissions: Total rows added: 0 in 0.00 seconds
+0109.315 (0) Table kps_rg_incomplete_submissions: finishing file (backup_2019-06-21-1252_OneSource_Software_9c1b82dca4a2-db-table-kps_rg_incomplete_submissions.table.gz - 0.4 KB)
+0109.321 (0) Table kps_rg_lead: Total expected rows (approximate): 107
+0109.339 (0) Table kps_rg_lead: Total rows added: 175 in 0.02 seconds
+0109.341 (0) Table kps_rg_lead: finishing file (backup_2019-06-21-1252_OneSource_Software_9c1b82dca4a2-db-table-kps_rg_lead.table.gz - 5 KB)
+0109.345 (0) Table kps_rg_lead_detail: Total expected rows (approximate): 87
+0109.370 (0) Table kps_rg_lead_detail: Total rows added: 593 in 0.02 seconds
+0109.372 (0) Table kps_rg_lead_detail: finishing file (backup_2019-06-21-1252_OneSource_Software_9c1b82dca4a2-db-table-kps_rg_lead_detail.table.gz - 52.4 KB)
+0109.377 (0) Table kps_rg_lead_detail_long: Total expected rows (approximate): 0
+0109.380 (0) Table kps_rg_lead_detail_long: Total rows added: 0 in 0.00 seconds
+0109.381 (0) Table kps_rg_lead_detail_long: finishing file (backup_2019-06-21-1252_OneSource_Software_9c1b82dca4a2-db-table-kps_rg_lead_detail_long.table.gz - 0.3 KB)
+0109.385 (0) Table kps_rg_lead_meta: Total expected rows (approximate): 0
+0109.387 (0) Table kps_rg_lead_meta: Total rows added: 0 in 0.00 seconds
+0109.388 (0) Table kps_rg_lead_meta: finishing file (backup_2019-06-21-1252_OneSource_Software_9c1b82dca4a2-db-table-kps_rg_lead_meta.table.gz - 0.4 KB)
+0109.393 (0) Table kps_rg_lead_notes: Total expected rows (approximate): 0
+0109.396 (0) Table kps_rg_lead_notes: Total rows added: 0 in 0.00 seconds
+0109.397 (0) Table kps_rg_lead_notes: finishing file (backup_2019-06-21-1252_OneSource_Software_9c1b82dca4a2-db-table-kps_rg_lead_notes.table.gz - 0.4 KB)
+0109.401 (0) Table kps_toolset_post_guid_id: Total expected rows (approximate): 0
+0109.404 (0) Table kps_toolset_post_guid_id: Total rows added: 0 in 0.00 seconds
+0109.405 (0) Table kps_toolset_post_guid_id: finishing file (backup_2019-06-21-1252_OneSource_Software_9c1b82dca4a2-db-table-kps_toolset_post_guid_id.table.gz - 0.3 KB)
+0109.409 (0) backup_2019-06-21-1252_OneSource_Software_9c1b82dca4a2-db-table-kps_options.table.gz (1/23): adding to final database dump
+0109.454 (0) backup_2019-06-21-1252_OneSource_Software_9c1b82dca4a2-db-table-kps_users.table.gz (2/23): adding to final database dump
+0109.456 (0) backup_2019-06-21-1252_OneSource_Software_9c1b82dca4a2-db-table-kps_usermeta.table.gz (3/23): adding to final database dump
+0109.459 (0) backup_2019-06-21-1252_OneSource_Software_9c1b82dca4a2-db-table-kps_commentmeta.table.gz (4/23): adding to final database dump
+0109.460 (0) backup_2019-06-21-1252_OneSource_Software_9c1b82dca4a2-db-table-kps_comments.table.gz (5/23): adding to final database dump
+0109.461 (0) backup_2019-06-21-1252_OneSource_Software_9c1b82dca4a2-db-table-kps_links.table.gz (6/23): adding to final database dump
+0109.462 (0) backup_2019-06-21-1252_OneSource_Software_9c1b82dca4a2-db-table-kps_postmeta.table.gz (7/23): adding to final database dump
+0109.583 (0) backup_2019-06-21-1252_OneSource_Software_9c1b82dca4a2-db-table-kps_posts.table.gz (8/23): adding to final database dump
+0109.595 (0) backup_2019-06-21-1252_OneSource_Software_9c1b82dca4a2-db-table-kps_term_relationships.table.gz (9/23): adding to final database dump
+0109.596 (0) backup_2019-06-21-1252_OneSource_Software_9c1b82dca4a2-db-table-kps_term_taxonomy.table.gz (10/23): adding to final database dump
+0109.598 (0) backup_2019-06-21-1252_OneSource_Software_9c1b82dca4a2-db-table-kps_termmeta.table.gz (11/23): adding to final database dump
+0109.599 (0) backup_2019-06-21-1252_OneSource_Software_9c1b82dca4a2-db-table-kps_terms.table.gz (12/23): adding to final database dump
+0109.600 (0) backup_2019-06-21-1252_OneSource_Software_9c1b82dca4a2-db-table-kps_new_royalsliders.table.gz (13/23): adding to final database dump
+0109.602 (0) backup_2019-06-21-1252_OneSource_Software_9c1b82dca4a2-db-table-kps_rg_form.table.gz (14/23): adding to final database dump
+0109.603 (0) backup_2019-06-21-1252_OneSource_Software_9c1b82dca4a2-db-table-kps_rg_form_meta.table.gz (15/23): adding to final database dump
+0109.605 (0) backup_2019-06-21-1252_OneSource_Software_9c1b82dca4a2-db-table-kps_rg_form_view.table.gz (16/23): adding to final database dump
+0109.616 (0) backup_2019-06-21-1252_OneSource_Software_9c1b82dca4a2-db-table-kps_rg_incomplete_submissions.table.gz (17/23): adding to final database dump
+0109.618 (0) backup_2019-06-21-1252_OneSource_Software_9c1b82dca4a2-db-table-kps_rg_lead.table.gz (18/23): adding to final database dump
+0109.621 (0) backup_2019-06-21-1252_OneSource_Software_9c1b82dca4a2-db-table-kps_rg_lead_detail.table.gz (19/23): adding to final database dump
+0109.636 (0) backup_2019-06-21-1252_OneSource_Software_9c1b82dca4a2-db-table-kps_rg_lead_detail_long.table.gz (20/23): adding to final database dump
+0109.638 (0) backup_2019-06-21-1252_OneSource_Software_9c1b82dca4a2-db-table-kps_rg_lead_meta.table.gz (21/23): adding to final database dump
+0109.639 (0) backup_2019-06-21-1252_OneSource_Software_9c1b82dca4a2-db-table-kps_rg_lead_notes.table.gz (22/23): adding to final database dump
+0109.640 (0) backup_2019-06-21-1252_OneSource_Software_9c1b82dca4a2-db-table-kps_toolset_post_guid_id.table.gz (23/23): adding to final database dump
+0109.642 (0) backup_2019-06-21-1252_OneSource_Software_9c1b82dca4a2-db.gz: finished writing out complete database file (752 KB)
+0109.660 (0) Total database tables backed up: 23 (backup_2019-06-21-1252_OneSource_Software_9c1b82dca4a2-db.gz, size: 799248, sha256)
+0109.668 (0) backup_2019-06-21-1252_OneSource_Software_9c1b82dca4a2-plugins.zip: plugins: This file has not yet been successfully uploaded: will queue
+0109.670 (0) backup_2019-06-21-1252_OneSource_Software_9c1b82dca4a2-themes.zip: themes: This file has not yet been successfully uploaded: will queue
+0109.671 (0) backup_2019-06-21-1252_OneSource_Software_9c1b82dca4a2-uploads.zip: uploads: This file has not yet been successfully uploaded: will queue
+0109.672 (0) backup_2019-06-21-1252_OneSource_Software_9c1b82dca4a2-others.zip: others: This file has not yet been successfully uploaded: will queue
+0109.673 (0) backup_2019-06-21-1252_OneSource_Software_9c1b82dca4a2-db.gz: db: This file has not yet been successfully uploaded: will queue
+0109.675 (0) Saving backup history. Total backup size: 37.6 MB
+0109.679 (0) Requesting upload of the files that have not yet been successfully uploaded (5)
+0109.683 (0) Cloud backup selection (1/1): none with instance (1/1) (last)
+0109.685 (0) No remote despatch: user chose no remote backup service
+0109.686 (0) Recording as successfully uploaded: backup_2019-06-21-1252_OneSource_Software_9c1b82dca4a2-plugins.zip
+0109.689 (0) Recording as successfully uploaded: backup_2019-06-21-1252_OneSource_Software_9c1b82dca4a2-themes.zip
+0109.692 (0) Recording as successfully uploaded: backup_2019-06-21-1252_OneSource_Software_9c1b82dca4a2-uploads.zip
+0109.695 (0) Recording as successfully uploaded: backup_2019-06-21-1252_OneSource_Software_9c1b82dca4a2-others.zip
+0109.698 (0) Recording as successfully uploaded: backup_2019-06-21-1252_OneSource_Software_9c1b82dca4a2-db.gz
+0109.703 (0) Retain: beginning examination of existing backup sets; user setting: retain_files=2, retain_db=2
+0109.705 (0) Number of backup sets in history: 1; groups (db): 1
+0109.706 (0) Examining (for databases) backup set with group_id=0, nonce=9c1b82dca4a2, datestamp=1561121533 (Jun 21 2019 12:52:13)
+0109.707 (0) This backup set is the backup set just made, so will not be deleted.
+0109.707 (0) Number of backup sets in history: 1; groups (files): 1
+0109.708 (0) Examining (for files) backup set with nonce=9c1b82dca4a2, datestamp=1561121533 (Jun 21 2019 12:52:13)
+0109.708 (0) This backup set is the backup set just made, so will not be deleted.
+0109.709 (0) This backup set is the backup set just made, so will not be deleted.
+0109.710 (0) This backup set is the backup set just made, so will not be deleted.
+0109.710 (0) This backup set is the backup set just made, so will not be deleted.
+0109.710 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0109.711 (0) Retain: saving new backup history (sets now: 1) and finishing retain operation
+0109.715 (0) Resume backup (9c1b82dca4a2, 0): finish run
+0109.717 (0) Decremented the semaphore (fd) by 1
+0109.719 (0) Semaphore (fd) unlocked
+0109.720 (0) There were no errors in the uploads, so the 'resume' event (1) is being unscheduled
+0109.723 (0) No email will/can be sent - the user has not configured an email address.
+0109.724 (0) The backup apparently succeeded and is now complete

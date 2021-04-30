@@ -1,0 +1,35 @@
+[15-Sep-2018 01:58:03 UTC] PHP Fatal error:  Call to undefined function get_header() in /home/schilds7/public_html/wp-content/themes/twentysixteen/404.php on line 10
+[15-Sep-2018 02:55:06 UTC] PHP Fatal error:  Call to undefined function get_header() in /home/schilds7/public_html/wp-content/themes/twentysixteen/404.php on line 10
+[06-Oct-2018 23:52:31 UTC] PHP Fatal error:  Call to undefined function get_header() in /home/schilds7/public_html/wp-content/themes/twentysixteen/search.php on line 10
+[07-Oct-2018 10:16:51 UTC] PHP Fatal error:  Call to undefined function post_password_required() in /home/schilds7/public_html/wp-content/themes/twentysixteen/comments.php on line 18
+[07-Oct-2018 12:56:25 UTC] PHP Fatal error:  Call to undefined function language_attributes() in /home/schilds7/public_html/wp-content/themes/twentysixteen/header.php on line 13
+[07-Oct-2018 15:40:02 UTC] PHP Fatal error:  Call to undefined function get_header() in /home/schilds7/public_html/wp-content/themes/twentysixteen/archive.php on line 19
+[11-Oct-2018 14:26:08 UTC] PHP Notice:  Undefined index: wp_version in /home/schilds7/public_html/wp-content/themes/twentysixteen/functions.php on line 31
+[11-Oct-2018 14:26:08 UTC] PHP Fatal error:  Call to undefined function get_template_directory() in /home/schilds7/public_html/wp-content/themes/twentysixteen/functions.php on line 32
+[12-Oct-2018 11:30:01 UTC] PHP Fatal error:  Call to undefined function get_header() in /home/schilds7/public_html/wp-content/themes/twentysixteen/index.php on line 17
+[13-Oct-2018 08:42:26 UTC] PHP Fatal error:  Call to undefined function get_header() in /home/schilds7/public_html/wp-content/themes/twentysixteen/single.php on line 10
+[14-Oct-2018 05:40:40 UTC] PHP Fatal error:  Call to undefined function get_header() in /home/schilds7/public_html/wp-content/themes/twentysixteen/404.php on line 10
+[15-Oct-2018 02:31:23 UTC] PHP Fatal error:  Call to undefined function has_nav_menu() in /home/schilds7/public_html/wp-content/themes/twentysixteen/footer.php on line 16
+[16-Oct-2018 00:00:36 UTC] PHP Fatal error:  Call to undefined function get_header() in /home/schilds7/public_html/wp-content/themes/twentysixteen/image.php on line 10
+[16-Oct-2018 20:59:32 UTC] PHP Fatal error:  Call to undefined function get_header() in /home/schilds7/public_html/wp-content/themes/twentysixteen/page.php on line 14
+[20-Oct-2018 05:50:50 UTC] PHP Fatal error:  Call to undefined function esc_url() in /home/schilds7/public_html/wp-content/themes/twentysixteen/searchform.php on line 11
+[20-Oct-2018 07:44:43 UTC] PHP Fatal error:  Call to undefined function is_active_sidebar() in /home/schilds7/public_html/wp-content/themes/twentysixteen/sidebar-content-bottom.php on line 10
+[20-Oct-2018 13:22:44 UTC] PHP Fatal error:  Call to undefined function is_active_sidebar() in /home/schilds7/public_html/wp-content/themes/twentysixteen/sidebar.php on line 11
+[06-Jan-2019 12:24:51 UTC] PHP Fatal error:  Call to undefined function get_header() in /home/schilds7/public_html/wp-content/themes/twentysixteen/404.php on line 10
+[06-Jan-2019 12:25:01 UTC] PHP Fatal error:  Call to undefined function get_header() in /home/schilds7/public_html/wp-content/themes/twentysixteen/404.php on line 10
+[20-Feb-2019 11:36:01 UTC] PHP Fatal error:  Call to undefined function get_header() in /home/schilds7/public_html/wp-content/themes/twentysixteen/404.php on line 10
+[07-May-2019 00:17:41 UTC] PHP Fatal error:  Call to undefined function get_header() in /home/schilds7/public_html/wp-content/themes/twentysixteen/404.php on line 10
+[07-May-2019 00:18:00 UTC] PHP Fatal error:  Call to undefined function get_header() in /home/schilds7/public_html/wp-content/themes/twentysixteen/404.php on line 10
+[07-May-2019 20:24:16 UTC] PHP Fatal error:  Call to undefined function get_header() in /home/schilds7/public_html/wp-content/themes/twentysixteen/404.php on line 10
+[07-May-2019 20:24:46 UTC] PHP Fatal error:  Call to undefined function get_header() in /home/schilds7/public_html/wp-content/themes/twentysixteen/404.php on line 10
+[07-May-2019 20:25:18 UTC] PHP Fatal error:  Call to undefined function get_header() in /home/schilds7/public_html/wp-content/themes/twentysixteen/404.php on line 10
+[07-May-2019 20:26:08 UTC] PHP Fatal error:  Call to undefined function get_header() in /home/schilds7/public_html/wp-content/themes/twentysixteen/404.php on line 10
+[28-May-2019 11:08:29 UTC] PHP Fatal error:  Call to undefined function get_header() in /home/schilds7/public_html/wp-content/themes/twentysixteen/404.php on line 10
+[06-Jul-2019 18:01:31 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/schilds7/public_html/wp-content/themes/twentysixteen/404.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/schilds7/public_html/wp-content/themes/twentysixteen/404.php on line 10
+[16-Jul-2019 04:12:33 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/schilds7/public_html/wp-content/themes/twentysixteen/404.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/schilds7/public_html/wp-content/themes/twentysixteen/404.php on line 10

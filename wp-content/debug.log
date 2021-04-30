@@ -1,0 +1,24 @@
+[25-Jun-2019 22:03:04 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function wp_recovery_mode() in /home/schilds7/public_html/wp-includes/load.php:812
+Stack trace:
+#0 /home/schilds7/public_html/wp-includes/load.php(696): wp_is_recovery_mode()
+#1 /home/schilds7/public_html/wp-settings.php(303): wp_get_active_and_valid_plugins()
+#2 /home/schilds7/public_html/wp-config.php(92): require_once('/home/schilds7/...')
+#3 /home/schilds7/public_html/wp-load.php(37): require_once('/home/schilds7/...')
+#4 /home/schilds7/public_html/wp-blog-header.php(13): require_once('/home/schilds7/...')
+#5 /home/schilds7/public_html/index.php(17): require('/home/schilds7/...')
+#6 {main}
+  thrown in /home/schilds7/public_html/wp-includes/load.php on line 812
+[25-Jun-2019 22:03:31 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function wp_recovery_mode() in /home/schilds7/public_html/wp-includes/load.php:812
+Stack trace:
+#0 /home/schilds7/public_html/wp-includes/load.php(696): wp_is_recovery_mode()
+#1 /home/schilds7/public_html/wp-settings.php(303): wp_get_active_and_valid_plugins()
+#2 /home/schilds7/public_html/wp-config.php(92): require_once('/home/schilds7/...')
+#3 /home/schilds7/public_html/wp-load.php(37): require_once('/home/schilds7/...')
+#4 /home/schilds7/public_html/wp-blog-header.php(13): require_once('/home/schilds7/...')
+#5 /home/schilds7/public_html/index.php(17): require('/home/schilds7/...')
+#6 {main}
+  thrown in /home/schilds7/public_html/wp-includes/load.php on line 812
+[25-Jun-2019 22:04:43 UTC] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/schilds7/public_html/wp-content/themes/oss/front-page.php on line 48
+[25-Jun-2019 22:04:51 UTC] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/schilds7/public_html/wp-content/themes/oss/front-page.php on line 48
+[25-Jun-2019 22:05:00 UTC] PHP Notice:  Undefined variable: posts_per_page in /home/schilds7/public_html/wp-content/themes/oss/lib/extras.php on line 153
+[25-Jun-2019 22:05:00 UTC] PHP Notice:  Undefined variable: posts_page in /home/schilds7/public_html/wp-content/themes/oss/lib/extras.php on line 153

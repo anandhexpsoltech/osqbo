@@ -1,0 +1,126 @@
+.pricing-table-desktops, .pricing-table-mobile, .table--bottom {
+  width: 100%;
+  max-width: 100%;
+  th, td {
+    padding: 10px;
+  }
+  th {
+    text-align: center;
+    background: $brand-purple;
+    color: #fff;
+    font-size: 1.1875rem;
+    font-weight: 400;
+  }
+  th.blank {
+    background: #f8f8f8;
+  }
+  .promotion-tr {
+    p {
+      margin-bottom: 0;
+    }
+    th {
+      background: #ce2d2d;
+      font-size: 1.05rem;
+      a {
+        display: inline-block;
+        border-bottom: 1px solid #fff;
+        padding: 2px 5px 0;
+        font-weight: 700;
+        font-family: $font-dosis;
+        text-transform: uppercase;
+        color: #fff;
+        &:hover, &:focus {
+          background: #fff;
+          color: $brand-green;
+        }
+      }
+      &.blank {
+        background: #f8f8f8;
+      }
+    }
+  }
+  td {
+    width: 20%;
+    text-align: center;
+    background: #fff;
+    border-left: 1px solid #ebebeb;
+    @include transition-property(background);
+    @include transition-duration(0.1s);
+  }
+  td:first-child {
+    width: 40%;
+    text-align: left;
+    background: #f8f8f8;
+    border-left: 0;
+    padding-left: 0;
+  }
+  td:not(:first-child) {
+    color: $brand-green;
+    font-family: $font-dosis;
+    text-transform: uppercase;
+    font-weight: 700;
+  }
+  tr {
+    border-bottom: 1px solid #ebebeb;
+    &.no--bot-border, &:last-child {
+      border-bottom: 0;
+    }
+    &:hover, &:focus {
+      td {
+        background: #fdfdfd;
+      }
+    }
+  }
+}
+
+.table--bottom {
+  margin-bottom: 80px;
+}
+
+.checked--td {
+  span {
+    display: inline-block;
+    width: 13px;
+    height: 13px;
+    background: url(../images/check@2x.png) no-repeat center center;
+    -webkit-background-size: 13px 13px;
+    -moz-background-size: 13px 13px;
+    -o-background-size: 13px 13px;
+    background-size: 13px 13px;
+  }
+}
+
+.pricing-table-mobile {
+  margin-bottom: 60px;
+}
+
+.pricing-table-desktops {
+  display: none;
+  margin-bottom: 100px;
+}
+
+@include media-breakpoint-up(sm) {
+
+}
+
+@include media-breakpoint-up(md) {
+
+}
+
+@include media-breakpoint-up(lg) {
+  .pricing-table-mobile {
+    display: none;
+  }
+
+  .pricing-table-desktops {
+    display: table;
+  }
+
+  .table--bottom {
+    margin-bottom: 120px;
+  }
+}
+
+@include media-breakpoint-up(xl) {
+
+}

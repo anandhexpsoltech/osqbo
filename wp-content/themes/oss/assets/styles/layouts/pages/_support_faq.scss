@@ -1,0 +1,220 @@
+.support--1st {
+  background: #f8f8f8;
+  text-align: center;
+  .section-header {
+    margin-bottom: 25px;
+  }
+  .gray--line {
+    margin-top: 60px;
+  }
+}
+
+.content--faq-single, body#tinymce.post-type-question-and-answer {
+  h1, h2, h3, h4, h5, h6 {
+    text-transform: uppercase;
+    font-family: $font-dosis;
+    font-weight: 700;
+  }
+
+  ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    padding-left: 30px;
+    li {
+      padding-left: 20px;
+      margin-bottom: 1rem;
+    }
+    li:before {
+      content: "";
+      display: inline-block;
+      vertical-align: middle;
+      width: 6px;
+      height: 6px;
+      margin-left: -15px;
+      margin-right: 9px;
+      border-radius: 50%;
+      background: $brand-green;
+    }
+  }
+
+  table {
+    border: 1px solid #ddd;
+    td {
+      padding: 10px;
+    }
+  }
+}
+
+.content--faq-single {
+  padding: 25px 25px 40px 70px;
+  display: none;
+}
+
+.q-and-a-container:last-child {
+  .content--faq-single {
+    padding-bottom: 160px;
+  }
+}
+
+.support-block-outer {
+  position: relative;
+  max-width: 370px;
+  display: inline-block;
+  background: #fff;
+  border-bottom: 4px solid $brand-purple;
+  margin-bottom: 30px;
+  box-shadow: 14px 14px 30px 0px rgba(5, 5, 6, 0.05);
+  .green--btn {
+    margin-bottom: 50px;
+    box-shadow: 14px 14px 30px 0px rgba(5, 5, 6, 0.05);
+  }
+}
+
+.supp-b-content {
+  margin: 15px 30px 35px;
+}
+
+.supp-b-title {
+  color: $brand-purple;
+  text-transform: uppercase;
+  font-family: $font-dosis;
+  font-weight: 700;
+  margin: 30px 30px 0;
+}
+
+.purple-sep {
+  display: inline-block;
+  height: 4px;
+  width: 30px;
+  background: $brand-purple;
+  border-radius: 4px;
+}
+
+.faq-section {
+  .section-header {
+    margin-bottom: 25px;
+  }
+}
+
+.faq-header {
+  position: relative;
+  display: block;
+  background: #fff;
+  box-shadow: 14px 14px 20px 0px rgba(5, 5, 6, 0.02);
+  padding: 25px 25px 25px 70px;
+  border: 1px solid #f1f2f2;
+  margin-bottom: -1px;
+  font-family: $font-dosis;
+  color: $body-color;
+  text-transform: uppercase;
+  font-weight: 700;
+  @include transition-duration(.25s);
+  &:hover, &:focus, &.active {
+    color: $brand-purple;
+  }
+  span {
+    display: inline-block;
+    width: 15px;
+    height: 9px;
+    position: absolute;
+    left: 29px;
+    top: 50%;
+    margin-top: -5px;
+    background: url(../images/down@2x.png) no-repeat center center;
+    -webkit-background-size: 15px 9px;
+    -moz-background-size: 15px 9px;
+    -o-background-size: 15px 9px;
+    background-size: 15px 9px;
+    @include transition-property(transform);
+    @include transition-duration(.25s);
+    @include transition-timing-function(ease-in-out);
+  }
+  &.active {
+    span {
+      @include rotateX(180deg);
+    }
+  }
+}
+
+.support-recommend-section {
+  margin-top: -130px;
+  padding-top: 130px;
+  padding-bottom: 60px;
+  background: url(../images/graphics2.png) no-repeat top center;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  color: #fff;
+
+  .section-header {
+    margin-bottom: 25px;
+  }
+
+  h1, h2, h3, h4, h5, h6 {
+    color: #fff;
+  }
+  color: #fff;
+}
+
+.support-bottom-content {
+  ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    li {
+      padding-left: 20px;
+      margin-bottom: 1rem;
+    }
+    li:before {
+      content: "";
+      display: inline-block;
+      vertical-align: middle;
+      width: 6px;
+      height: 6px;
+      margin-left: -15px;
+      margin-right: 9px;
+      border-radius: 50%;
+      background: #fff;
+    }
+  }
+
+  a {
+    color: #fff;
+    border-bottom: 1px solid rgba(255,255,255,0.3);
+    &:hover, &:focus {
+      color: rgba(255,255,255,0.75);
+    }
+  }
+}
+
+@include media-breakpoint-up(sm) {
+
+}
+
+@include media-breakpoint-up(md) {
+
+}
+
+@include media-breakpoint-up(lg) {
+  .support--1st {
+    .gray--line {
+      margin-top: 100px;
+    }
+  }
+
+  .content--faq-single, body#tinymce.post-type-question-and-answer {
+    ul {
+      padding-left: 60px;
+    }
+  }
+
+  .support-recommend-section {
+    padding-bottom: 110px;
+  }
+}
+
+@include media-breakpoint-up(xl) {
+
+}
